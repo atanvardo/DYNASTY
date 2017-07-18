@@ -1,0 +1,21 @@
+persos.txt:
+Lista de posibles personalidades, primero
+en masculino, luego un tabulador y finalmente
+en femenino.
+
+fisicos.txt:
+Ídem con cualidades físicas.
+
+namesm.txt:
+Lista de nombres masculinos, uno por línea.
+
+namesf.txt:
+Ídem con nombres femeninos.
+
+paises.txt:
+Lista de países, en mayúscula y divididos por
+sílabas mediante tabuladores.
+
+apellidos.txt:
+ídem con apellidos.
+
