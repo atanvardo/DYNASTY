@@ -2,20 +2,30 @@ persos.txt:
 Lista de posibles personalidades, primero
 en masculino, luego un tabulador y finalmente
 en femenino.
+List of possible personalities, first in masculine,
+then a tabulator, then the personality in
+feminine. If the language used does not distinguish
+between genders, just repeat the same adjective.
 
 fisicos.txt:
-Õdem con cualidades fÌsicas.
+√çdem con cualidades f√≠sicas.
+Idem with physical characters.
 
 namesm.txt:
-Lista de nombres masculinos, uno por lÌnea.
+Lista de nombres masculinos, uno por l√≠nea.
+List of male names, one in each line.
 
 namesf.txt:
-Õdem con nombres femeninos.
+√çdem con nombres femeninos.
+Idem with feminine names.
 
 paises.txt:
-Lista de paÌses, en may˙scula y divididos por
-sÌlabas mediante tabuladores.
+Lista de pa√≠ses, en may√∫scula y divididos por
+s√≠labas mediante tabuladores.
+List of countries, in caps, with syllabes
+separated by tabulators.
 
 apellidos.txt:
-Ìdem con apellidos.
+√≠dem con apellidos.
+Idem with surnames.
 
