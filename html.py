@@ -1,11 +1,11 @@
 import random
 
-def db2html(database):
+def db2html(database, filename):
 
     bgcolors = ['#FFCCFF','#FFFFCC','#CCFFCC','#CCFF99']
 
     html = '<HEAD>\n<TITLE>DINASTY Random Family Tree Generator</TITLE>\n</HEAD>\n'
-    htmlfile = open('dinasty.html','w')
+    htmlfile = open(filename + '.html','w')
 
     html += '<TABLE WIDTH="50%>\n<TR>\n'
     html += '<TD align="center" bgcolor="BLACK">Relación de individuos</TD>\n'

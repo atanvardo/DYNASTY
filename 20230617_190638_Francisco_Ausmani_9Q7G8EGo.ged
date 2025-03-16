@@ -1,0 +1,2950 @@
+0 HEAD
+1 SOUR Dinasty
+2 NAME Random family tree generator
+2 VERS 2
+2 CORP A. López
+1 CHAR ANSI
+1 GEDC
+2 VERS 5.5
+2 FORM LINAGE-LINKED
+0 GENOMAP
+0 @1@ INDI
+1 NAME FRANCISCO I/Ausmani
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1235
+1 DEAT
+2 DATE 1301
+1 PERSONALITY Gracioso
+Inculto
+Tímido
+1 FISICO Lagrimoso
+Granoso
+Bilioso
+1 TITLES Rey de Inlavia (1246-1301)
+Autócrator de Belvivia (1273-1301)
+v: 1235-1301
+1 BLOODTYPE AB
+1 HEIGHT 1.84m
+1 WEIGHT 82.0kg
+1 HAIRCOLOR Pardo
+
+0 @2@ INDI
+1 NAME Blanca/Vareter
+1 SEX f
+1 BIRT
+2 DATE 1236
+1 DEAT
+2 DATE 1273
+1 PERSONALITY Controladora
+Vividora
+Piadosa
+1 FISICO Entrecana
+Cuellicorta
+Ojerosa
+1 TITLES Autocratriz de Belvivia (1261-1273)
+Marquesa de Moltonia (1259-1273)
+v: 1236-1273
+1 BLOODTYPE A
+1 HEIGHT 1.93m
+1 WEIGHT 64.5kg
+1 HAIRCOLOR Castaño
+
+0 @3@ INDI
+1 NAME Blanca/Ausmani
+1 SEX f
+1 BIRT
+2 DATE 1265
+1 DEAT
+2 DATE 1313
+1 PERSONALITY Inculta
+Piadosa
+Lujuriosa
+1 FISICO Granosa
+Ojerosa
+Zurda
+1 TITLES Autocratriz de Belvivia (1301-1313)
+v: 1265-1313
+1 BLOODTYPE AB
+1 HEIGHT 1.65m
+1 WEIGHT 82.0kg
+1 HAIRCOLOR Negro
+
+0 @4@ INDI
+1 NAME FRANCISCO II/Ausmani
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1266
+1 DEAT
+2 DATE 1327
+1 PERSONALITY Gracioso
+Vividor
+Intimidante
+1 FISICO Granoso
+Cuellicorto
+Graso
+1 TITLES Rey de Inlavia (1301-1327)
+Autócrator de Belvivia (1313-1327)
+Marqués de Moltonia (1273-1327)
+v: 1266-1327
+1 BLOODTYPE A
+1 HEIGHT 1.99m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Castaño
+
+0 @5@ INDI
+1 NAME Emilia/(prostituta)
+1 SEX f
+1 BIRT
+2 DATE 1267
+1 DEAT
+2 DATE 1303
+1 PERSONALITY Malvada
+Sociable
+Revolucionaria
+1 FISICO Granosa
+Morena
+Robusta
+1 TITLES 
+v: 1267-1303
+1 BLOODTYPE B
+1 HEIGHT 1.44m
+1 WEIGHT 67.0kg
+1 HAIRCOLOR Pardo
+
+0 @6@ INDI
+1 NAME Adalberta/Expósito
+1 SEX f
+1 BIRT
+2 DATE 1297
+1 DEAT
+2 DATE 1359
+1 PERSONALITY Graciosa
+Revolucionaria
+Patriota
+1 FISICO Grasa
+Robusta
+Sucia
+1 TITLES 
+v: 1297-1359
+1 BLOODTYPE AB
+1 HEIGHT 1.69m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Oscuro
+
+0 @7@ INDI
+1 NAME Inés/Aroburgo
+1 SEX f
+1 BIRT
+2 DATE 1284
+1 DEAT
+2 DATE 1333
+1 PERSONALITY Piadosa
+Casta
+Conservadora
+1 FISICO Radiante
+Miope
+Coja
+1 TITLES Archiduquesa de Voiringaña (1294-1333)
+Marquesa de Pornavia (1301-1333)
+v: 1284-1333
+1 BLOODTYPE A
+1 HEIGHT 1.75m
+1 WEIGHT 84.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @8@ INDI
+1 NAME INÉS I/Ausmani
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1316
+1 DEAT
+2 DATE 1386
+1 PERSONALITY Graciosa
+Piadosa
+Casta
+1 FISICO Granosa
+Miope
+Tetona
+1 TITLES Reina de Inlavia (1327-1386)
+Virreina de Polola (1368-1386)
+Archiduquesa de Voiringaña (1333-1386)
+Autocratriz de Belvivia (1385-1386)
+v: 1316-1386
+1 BLOODTYPE A
+1 HEIGHT 2.02m
+1 WEIGHT 63.5kg
+1 HAIRCOLOR Castaño
+
+0 @9@ INDI
+1 NAME Blanca/Ausmani
+1 SEX f
+1 BIRT
+2 DATE 1318
+1 DEAT
+2 DATE 1385
+1 PERSONALITY Intimidante
+Piadosa
+Habladora
+1 FISICO Granosa
+Miope
+Inexpresiva
+1 TITLES Archiduquesa de Luluburgo (1371-1385)
+Autocratriz de Belvivia (1327-1385)
+Marquesa de Pornavia (1333-1385)
+Señora de Caglalandia (1368-1385)
+v: 1318-1385
+1 BLOODTYPE A
+1 HEIGHT 1.74m
+1 WEIGHT 79.0kg
+1 HAIRCOLOR Castaño
+
+0 @10@ INDI
+1 NAME Jorge/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1309
+1 DEAT
+2 DATE 1368
+1 PERSONALITY Discutidor
+Envidioso
+Distante
+1 FISICO Cojo
+Sucio
+Melenudo
+1 TITLES Virrey de Polola (1314-1368)
+Señor de Caglalandia (1332-1368)
+Gobernador de Porgolia (1328-1368)
+v: 1309-1368
+1 BLOODTYPE AB
+1 HEIGHT 1.3m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @11@ INDI
+1 NAME Antonio/Planarver
+1 SEX m
+1 BIRT
+2 DATE 1321
+1 DEAT
+2 DATE 1371
+1 PERSONALITY Adúltero
+Regio
+Envidioso
+1 FISICO Atractivo
+Jorobado
+Apuesto
+1 TITLES Archiduque de Luluburgo (1339-1371)
+Vizconde de Lucralia (1341-1371)
+Hidalgo de Liritusia (1334-1371)
+v: 1321-1371
+1 BLOODTYPE A
+1 HEIGHT 1.72m
+1 WEIGHT 67.0kg
+1 HAIRCOLOR Castaño
+
+0 @12@ INDI
+1 NAME BLANCA I/Planarver
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1352
+1 DEAT
+2 DATE 1423
+1 PERSONALITY Habladora
+Regia
+Caritativa
+1 FISICO Granosa
+Apuesta
+Miope
+1 TITLES Reina de Inlavia (1386-1423)
+Virreina de Polola (1386-1423)
+Archiduquesa de Luluburgo (1385-1423)
+Archiduquesa de Voiringaña (1386-1423)
+v: 1352-1423
+1 BLOODTYPE A
+1 HEIGHT 1.89m
+1 WEIGHT 83.5kg
+1 HAIRCOLOR Castaño
+
+0 @13@ INDI
+1 NAME Federico/Namalgesor
+1 SEX m
+1 BIRT
+2 DATE 1341
+1 DEAT
+2 DATE 1404
+1 PERSONALITY Risueño
+Sociable
+Errático
+1 FISICO Cetrino
+Lagrimoso
+Musculoso
+1 TITLES Conde de Bullumaña (1379-1404)
+Señor de Pamasia (1357-1404)
+v: 1341-1404
+1 BLOODTYPE 0
+1 HEIGHT 1.76m
+1 WEIGHT 66.0kg
+1 HAIRCOLOR Pelirrojo
+
+0 @14@ INDI
+1 NAME BLANCA II/Namalgesor
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1393
+1 DEAT
+2 DATE 1447
+1 PERSONALITY Habladora
+Risueña
+Enfermiza
+1 FISICO Apuesta
+Musculosa
+Manca
+1 TITLES Reina de Inlavia (1423-1447)
+Virreina de Biegogria (1428-1447)
+Virreina de Polola (1423-1447)
+Archiduquesa de Luluburgo (1423-1447)
+v: 1393-1447
+1 BLOODTYPE A
+1 HEIGHT 1.65m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Pardo
+
+0 @15@ INDI
+1 NAME Francisco/Plangette
+1 SEX m
+1 BIRT
+2 DATE 1378
+1 DEAT
+2 DATE 1428
+1 PERSONALITY Secretivo
+Envidioso
+Malhablado
+1 FISICO Patizambo
+Cetrino
+Barbudo
+1 TITLES Virrey de Biegogria (1404-1428)
+Virrey de Pornania (1413-1428)
+Duque de Monrina (1410-1428)
+v: 1378-1428
+1 BLOODTYPE A
+1 HEIGHT 1.64m
+1 WEIGHT 77.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @16@ INDI
+1 NAME INÉS II/Plangette
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1425
+1 DEAT
+2 DATE 1476
+1 PERSONALITY Enfermiza
+Envidiosa
+Activa
+1 FISICO Manca
+Tetona
+Delgada
+1 TITLES Reina de Inlavia (1447-1476)
+Virreina de Biegogria (1447-1476)
+Virreina de Polola (1447-1476)
+Virreina de Pornania (1428-1476)
+v: 1425-1476
+1 BLOODTYPE A
+1 HEIGHT 1.78m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Rubio
+
+0 @17@ INDI
+1 NAME Ataulfo/Trasgedi
+1 SEX m
+1 BIRT
+2 DATE 1426
+1 DEAT
+2 DATE 1497
+1 PERSONALITY Necio
+Adúltero
+Gracioso
+1 FISICO Atlético
+Miope
+Granoso
+1 TITLES Barón de Tugivemarca (1440-1497)
+Señor de Aruevia (1441-1497)
+v: 1426-1497
+1 BLOODTYPE B
+1 HEIGHT 1.6m
+1 WEIGHT 68.5kg
+1 HAIRCOLOR Negro
+
+0 @18@ INDI
+1 NAME MARGARITA I/Trasgedi
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1460
+1 DEAT
+2 DATE 1521
+1 PERSONALITY Envidiosa
+Graciosa
+Perseverante
+1 FISICO Delgada
+Atlética
+Pecosa
+1 TITLES Reina de Inlavia (1476-1521)
+Virreina de Biegogria (1476-1521)
+Virreina de Polola (1476-1521)
+Virreina de Pornania (1476-1521)
+v: 1460-1521
+1 BLOODTYPE B
+1 HEIGHT 1.69m
+1 WEIGHT 71.5kg
+1 HAIRCOLOR Pelirrojo
+
+0 @19@ INDI
+1 NAME Ataulfo/Tucastte
+1 SEX m
+1 BIRT
+2 DATE 1448
+1 DEAT
+2 DATE 1495
+1 PERSONALITY Caballeroso
+Caritativo
+Taciturno
+1 FISICO Canijo
+Ojos saltones
+Granoso
+1 TITLES Marqués de Irladelanda (1475-1495)
+v: 1448-1495
+1 BLOODTYPE AB
+1 HEIGHT 1.65m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @20@ INDI
+1 NAME FRANCISCO III/Tucastte
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1487
+1 DEAT
+2 DATE 1544
+1 PERSONALITY Envidioso
+Taciturno
+Hogareño
+1 FISICO Pecoso
+Granoso
+Cara redonda
+1 TITLES Rey de Inlavia (1521-1544)
+Virrey de Biegogria (1521-1544)
+Virrey de Polola (1521-1544)
+Virrey de Pordatanaquia (1522-1544)
+v: 1487-1544
+1 BLOODTYPE B
+1 HEIGHT 1.8m
+1 WEIGHT 66.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @21@ INDI
+1 NAME Francisco/Aroburgo
+1 SEX m
+1 BIRT
+2 DATE 1457
+1 DEAT
+2 DATE 1522
+1 PERSONALITY Religioso
+Paciente
+Limpio
+1 FISICO Inexpresivo
+Cara redonda
+Atractivo
+1 TITLES Duque de Sipacia (1491-1522)
+v: 1457-1522
+1 BLOODTYPE A
+1 HEIGHT 1.67m
+1 WEIGHT 76.0kg
+1 HAIRCOLOR Oscuro
+
+0 @22@ INDI
+1 NAME Antonio/(cocinero)
+1 SEX m
+1 BIRT
+2 DATE 1468
+1 DEAT
+2 DATE 1508
+1 PERSONALITY Paciente
+Abierto
+Obsesivo
+1 FISICO Aguileño
+Ojos saltones
+Cara redonda
+1 TITLES 
+v: 1468-1508
+1 BLOODTYPE B
+1 HEIGHT 1.86m
+1 WEIGHT 68.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @23@ INDI
+1 NAME BORIS I/Aroburgo
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1500
+1 DEAT
+2 DATE 1561
+1 PERSONALITY Perseverante
+Paciente
+Limpio
+1 FISICO Delgado
+Aguileño
+Miope
+1 TITLES Rey de Inlavia (1544-1561)
+Virrey de Polola (1544-1561)
+Virrey de Pornania (1544-1561)
+Archiduque de Voiringaña (1544-1561)
+v: 1500-1561
+1 BLOODTYPE B
+1 HEIGHT 1.81m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @24@ INDI
+1 NAME Margarita/Trasgedi
+1 SEX f
+1 BIRT
+2 DATE 1479
+1 DEAT
+2 DATE 1522
+1 PERSONALITY Buena
+Malhablada
+Activa
+1 FISICO Miope
+Pálida
+Biliosa
+1 TITLES Virreina de Pordatanaquia (1507-1522)
+Duquesa de Belloquia (1512-1522)
+Señora de Igolia (1512-1522)
+v: 1479-1522
+1 BLOODTYPE A
+1 HEIGHT 1.68m
+1 WEIGHT 64.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @25@ INDI
+1 NAME Blanca/Ausmani
+1 SEX f
+1 BIRT
+2 DATE 1504
+1 DEAT
+2 DATE 1576
+1 PERSONALITY Controladora
+Sabia
+Regia
+1 FISICO Robusta
+Cenicienta
+deformes
+1 TITLES Vizcondesa de Olradania (1520-1576)
+Baronesa de Rutunia (1506-1576)
+v: 1504-1576
+1 BLOODTYPE 0
+1 HEIGHT 1.54m
+1 WEIGHT 60.5kg
+1 HAIRCOLOR Pardo
+
+0 @26@ INDI
+1 NAME BORIS II/Aroburgo
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1543
+1 DEAT
+2 DATE 1599
+1 PERSONALITY Paciente
+Controlador
+Distante
+1 FISICO Aguileño
+Ceniciento
+Maloliente
+1 TITLES Rey de Inlavia (1561-1599)
+Virrey de Biegogria (1544-1599)
+Virrey de Polola (1561-1599)
+Virrey de Pordatanaquia (1544-1599)
+v: 1543-1599
+1 BLOODTYPE B
+1 HEIGHT 1.71m
+1 WEIGHT 60.0kg
+1 HAIRCOLOR Oscuro
+
+0 @27@ INDI
+1 NAME Eleanor/(monja)
+1 SEX f
+1 BIRT
+2 DATE 1552
+1 DEAT
+2 DATE 1605
+1 PERSONALITY Ambiciosa
+negra
+Tramposa
+1 FISICO Maloliente
+Sucia
+Desaliñada
+1 TITLES 
+v: 1552-1605
+1 BLOODTYPE A
+1 HEIGHT 1.61m
+1 WEIGHT 57.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @28@ INDI
+1 NAME CLAUDIO I/Expósito
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1574
+1 DEAT
+2 DATE 1611
+1 PERSONALITY Controlador
+Tramposo
+Tímido
+1 FISICO Aguileño
+Sucio
+Lagrimoso
+1 TITLES Rey de Inlavia (1599-1611)
+Virrey de Pordatanaquia (1599-1611)
+Archiduque de Voiringaña (1599-1611)
+Duque de Sipacia (1599-1611)
+v: 1574-1611
+1 BLOODTYPE A
+1 HEIGHT 1.6m
+1 WEIGHT 63.5kg
+1 HAIRCOLOR Negro
+
+0 @29@ INDI
+1 NAME Inés/Namalgesor
+1 SEX f
+1 BIRT
+2 DATE 1545
+1 DEAT
+2 DATE 1592
+1 PERSONALITY Honesta
+Discutidora
+Depresiva
+1 FISICO Orejona
+Miope
+Pecosa
+1 TITLES Señora de Frandigria (1574-1592)
+v: 1545-1592
+1 BLOODTYPE A
+1 HEIGHT 1.35m
+1 WEIGHT 68.5kg
+1 HAIRCOLOR Oscuro
+
+0 @30@ INDI
+1 NAME BLANCA III/Aroburgo
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1585
+1 DEAT
+2 DATE 1626
+1 PERSONALITY Controladora
+Discutidora
+Inmoral
+1 FISICO Aguileña
+Miope
+Apuesta
+1 TITLES Reina de Inlavia (1611-1626)
+Virreina de Biegogria (1599-1626)
+Virreina de Pornania (1599-1626)
+Duquesa de Belloquia (1599-1626)
+v: 1585-1626
+1 BLOODTYPE AB
+1 HEIGHT 1.68m
+1 WEIGHT 68.0kg
+1 HAIRCOLOR Castaño
+
+0 @31@ INDI
+1 NAME Inés/Aroburgo
+1 SEX f
+1 BIRT
+2 DATE 1589
+1 DEAT
+2 DATE 1669
+1 PERSONALITY Paciente
+Depresiva
+Caballerosa
+1 FISICO Aguileña
+Orejona
+Desagradable
+1 TITLES Virreina de Polola (1599-1669)
+Virreina de Pordatanaquia (1611-1669)
+Archiduquesa de Luluburgo (1599-1669)
+Duquesa de Belloquia (1626-1669)
+v: 1589-1669
+1 BLOODTYPE 0
+1 HEIGHT 1.49m
+1 WEIGHT 50.5kg
+1 HAIRCOLOR Castaño
+
+0 @32@ INDI
+1 NAME Rafael/Borzollon
+1 SEX m
+1 BIRT
+2 DATE 1577
+1 DEAT
+2 DATE 1649
+1 PERSONALITY Descuidado
+Goloso
+Malhumorado
+1 FISICO Rollizo
+Ojos saltones
+Cuellicorto
+1 TITLES Virrey de Gualosia (1588-1649)
+Barón de Esnatria (1597-1649)
+v: 1577-1649
+1 BLOODTYPE A
+1 HEIGHT 1.72m
+1 WEIGHT 65.0kg
+1 HAIRCOLOR Pardo
+
+0 @33@ INDI
+1 NAME ISABEL I/Borzollon
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1606
+1 DEAT
+2 DATE 1680
+1 PERSONALITY Inmoral
+Golosa
+Habladora
+1 FISICO Aguileña
+Rolliza
+Babeante
+1 TITLES Reina de Inlavia (1666-1680)
+Virreina de Pornania (1626-1680)
+Archiduquesa de Voiringaña (1658-1680)
+Duquesa de Inragiña (1669-1680)
+v: 1606-1680
+1 BLOODTYPE B
+1 HEIGHT 1.82m
+1 WEIGHT 77.5kg
+1 HAIRCOLOR Castaño
+
+0 @34@ INDI
+1 NAME BORIS III/Borzollon
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1607
+1 DEAT
+2 DATE 1658
+1 PERSONALITY Controlador
+Malhumorado
+Abierto
+1 FISICO Miope
+Ojos saltones
+Feo
+1 TITLES Rey de Inlavia (1626-1658)
+Virrey de Gualosia (1649-1658)
+Archiduque de Voiringaña (1611-1658)
+Marqués de Moltonia (1626-1658)
+v: 1607-1658
+1 BLOODTYPE A
+1 HEIGHT 1.47m
+1 WEIGHT 66.5kg
+1 HAIRCOLOR Negro
+
+0 @35@ INDI
+1 NAME Antonio/Nahenviniolois
+1 SEX m
+1 BIRT
+2 DATE 1587
+1 DEAT
+2 DATE 1644
+1 PERSONALITY Digno de confianza
+Poca cosa
+Saludable
+1 FISICO Entrecano
+Atlético
+Canijo
+1 TITLES Duque de Inragiña (1595-1644)
+Duque de Lurinquia (1602-1644)
+Vizconde de Esdidatria (1598-1644)
+v: 1587-1644
+1 BLOODTYPE B
+1 HEIGHT 1.48m
+1 WEIGHT 72.5kg
+1 HAIRCOLOR Pardo
+
+0 @36@ INDI
+1 NAME Blanca/Nahenviniolois
+1 SEX f
+1 BIRT
+2 DATE 1616
+1 DEAT
+2 DATE 1675
+1 PERSONALITY Caballerosa
+de
+Antipática
+1 FISICO Desagradable
+Entrecana
+Cetrina
+1 TITLES Virreina de Polola (1669-1675)
+Archiduquesa de Cerloria (1669-1675)
+Duquesa de Lurinquia (1644-1675)
+Autocratriz de Belvivia (1626-1675)
+v: 1616-1675
+1 BLOODTYPE B
+1 HEIGHT 1.4m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Pardo
+
+0 @37@ INDI
+1 NAME ATAULFO I/Borzollon
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1620
+1 DEAT
+2 DATE 1666
+1 PERSONALITY Discutidor
+Descuidado
+Hogareño
+1 FISICO Miope
+Ojos saltones
+Cuellicorto
+1 TITLES Rey de Inlavia (1658-1666)
+Virrey de Biegogria (1626-1666)
+Virrey de Lugolandia (1664-1666)
+Marqués de Pornavia (1626-1666)
+Barón de Esnatria (1649-1666)
+v: 1620-1666
+1 BLOODTYPE AB
+1 HEIGHT 1.77m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @38@ INDI
+1 NAME Isabel/Namalgesor
+1 SEX f
+1 BIRT
+2 DATE 1589
+1 DEAT
+2 DATE 1664
+1 PERSONALITY Terca
+Libertina
+Saludable
+1 FISICO Patizamba
+Cetrina
+Sucia
+1 TITLES Virreina de Lugolandia (1623-1664)
+Señora de Atoca (1623-1664)
+Gobernadora de Suetorruvia (1612-1664)
+v: 1589-1664
+1 BLOODTYPE 0
+1 HEIGHT 1.73m
+1 WEIGHT 61.0kg
+1 HAIRCOLOR Pardo
+
+0 @39@ INDI
+1 NAME BLANCA IV/Borzollon
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1632
+1 DEAT
+2 DATE 1682
+1 PERSONALITY Malhumorada
+Libertina
+Arrogante
+1 FISICO Fea
+Patizamba
+Sonriente
+1 TITLES Reina de Inlavia (1680-1682)
+Virreina de Biegogria (1666-1682)
+Virreina de Gualosia (1658-1682)
+Duquesa de Monrina (1669-1682)
+v: 1632-1682
+1 BLOODTYPE A
+1 HEIGHT 1.75m
+1 WEIGHT 68.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @40@ INDI
+1 NAME Rafael/Namalgesor
+1 SEX m
+1 BIRT
+2 DATE 1604
+1 DEAT
+2 DATE 1669
+1 PERSONALITY Malvado
+Saludable
+Orgulloso
+1 FISICO Delgado
+Granoso
+Jorobado
+1 TITLES Archiduque de Cerloria (1632-1669)
+Gobernador de Gualosia (1622-1669)
+v: 1604-1669
+1 BLOODTYPE A
+1 HEIGHT 1.71m
+1 WEIGHT 85.5kg
+1 HAIRCOLOR Negro
+
+0 @41@ INDI
+1 NAME Boris/Namalgesor
+1 SEX m
+1 BIRT
+2 DATE 1640
+1 DEAT
+2 DATE 1711
+1 PERSONALITY Digno de confianza
+Orgulloso
+Liberal
+1 FISICO Entrecano
+Granoso
+Babeante
+1 TITLES Virrey de Polola (1675-1711)
+Virrey de Pordatanaquia (1669-1711)
+Duque de Inragiña (1680-1711)
+Duque de Monrina (1682-1711)
+v: 1640-1711
+1 BLOODTYPE AB
+1 HEIGHT 1.53m
+1 WEIGHT 78.0kg
+1 HAIRCOLOR Pardo
+
+0 @42@ INDI
+1 NAME Inés/Borzollon
+1 SEX f
+1 BIRT
+2 DATE 1651
+1 DEAT
+2 DATE 1719
+1 PERSONALITY Malhumorada
+Saludable
+Traicionera
+1 FISICO Fea
+Cetrina
+Jorobada
+1 TITLES Virreina de Biegogria (1682-1719)
+Virreina de Lugolandia (1666-1719)
+Virreina de Pornania (1680-1719)
+Archiduquesa de Cerloria (1716-1719)
+v: 1651-1719
+1 BLOODTYPE A
+1 HEIGHT 1.52m
+1 WEIGHT 66.0kg
+1 HAIRCOLOR Castaño
+
+0 @43@ INDI
+1 NAME Blanca/Namalgesor
+1 SEX f
+1 BIRT
+2 DATE 1651
+1 DEAT
+2 DATE 1714
+1 PERSONALITY Antipática
+Orgullosa
+Insensible
+1 FISICO Entrecana
+Jorobada
+Pecosa
+1 TITLES Virreina de Pordatanaquia (1711-1714)
+Duquesa de Belloquia (1669-1714)
+Duquesa de Lurinquia (1675-1714)
+Autocratriz de Belvivia (1680-1714)
+v: 1651-1714
+1 BLOODTYPE A
+1 HEIGHT 1.58m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Negro
+
+0 @44@ INDI
+1 NAME Jorge/Aroburgo
+1 SEX m
+1 BIRT
+2 DATE 1610
+1 DEAT
+2 DATE 1674
+1 PERSONALITY Extrovertido
+Extraño
+Perseverante
+1 FISICO Bello
+Elegante
+Miope
+1 TITLES Señor de Altisia (1634-1674)
+v: 1610-1674
+1 BLOODTYPE B
+1 HEIGHT 1.88m
+1 WEIGHT 75.5kg
+1 HAIRCOLOR Castaño
+
+0 @45@ INDI
+1 NAME Ataulfo/Namalgesor
+1 SEX m
+1 BIRT
+2 DATE 1653
+1 DEAT
+2 DATE 1716
+1 PERSONALITY Antipático
+Saludable
+Comprensivo
+1 FISICO Entrecano
+Delgado
+Sucio
+1 TITLES Virrey de Gerlocia (1708-1716)
+Virrey de Polola (1711-1716)
+Virrey de Pordatanaquia (1714-1716)
+Archiduque de Cerloria (1675-1716)
+v: 1653-1716
+1 BLOODTYPE AB
+1 HEIGHT 1.68m
+1 WEIGHT 82.0kg
+1 HAIRCOLOR Negro
+
+0 @46@ INDI
+1 NAME Marta Eleanor/Trasgedi
+1 SEX f
+1 BIRT
+2 DATE 1635
+1 DEAT
+2 DATE 1674
+1 PERSONALITY Comprensiva
+Habladora
+Inculta
+1 FISICO Granosa
+Narigona
+Pálida
+1 TITLES Vizcondesa de Reticratria (1650-1674)
+Baronesa de Sitaña (1654-1674)
+v: 1635-1674
+1 BLOODTYPE A
+1 HEIGHT 1.69m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Oscuro
+
+0 @47@ INDI
+1 NAME Mariana/Aroburgo
+1 SEX f
+1 BIRT
+2 DATE 1647
+1 DEAT
+2 DATE 1706
+1 PERSONALITY Antipática
+Inculta
+Ingenua
+1 FISICO Radiante
+deformes
+Tetona
+1 TITLES Condesa de Greruenia (1664-1706)
+Fijodalga de Hunglasitria (1665-1706)
+v: 1647-1706
+1 BLOODTYPE A
+1 HEIGHT 1.78m
+1 WEIGHT 72.5kg
+1 HAIRCOLOR Negro
+
+0 @48@ INDI
+1 NAME Inés/Aroburgo
+1 SEX f
+1 BIRT
+2 DATE 1671
+1 DEAT
+2 DATE 1671
+1 PERSONALITY Arrogante
+Extraña
+Patriota
+1 FISICO Sonriente
+Miope
+Rolliza
+1 TITLES 
+v: 1671-1671
+1 BLOODTYPE 0
+1 HEIGHT 1.99m
+1 WEIGHT 67.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @49@ INDI
+1 NAME Ismael/(campesino)
+1 SEX m
+1 BIRT
+2 DATE 1649
+1 DEAT
+2 DATE 1695
+1 PERSONALITY Malvado
+Atento
+Caballeroso
+1 FISICO Ojeroso
+Aguileño
+Cuellicorto
+1 TITLES 
+v: 1649-1695
+1 BLOODTYPE A
+1 HEIGHT 1.6m
+1 WEIGHT 57.5kg
+1 HAIRCOLOR Negro
+
+0 @50@ INDI
+1 NAME BERENGARIA I/Aroburgo
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1674
+1 DEAT
+2 DATE 1732
+1 PERSONALITY Malhumorada
+Atenta
+Guerrera
+1 FISICO Sonriente
+Aguileña
+Babeante
+1 TITLES Reina de Inlavia (1682-1732)
+Virreina de Pornania (1719-1732)
+Archiduquesa de Voiringaña (1680-1732)
+Duquesa de Sipacia (1716-1732)
+v: 1674-1732
+1 BLOODTYPE A
+1 HEIGHT 1.62m
+1 WEIGHT 73.5kg
+1 HAIRCOLOR Pardo
+
+0 @51@ INDI
+1 NAME Dorotea/Caloza
+1 SEX f
+1 BIRT
+2 DATE 1651
+1 DEAT
+2 DATE 1708
+1 PERSONALITY Adúltera
+Sociable
+Controladora
+1 FISICO Narigona
+Apuesta
+Masculina
+1 TITLES Virreina de Gerlocia (1664-1708)
+Gobernadora de Gualisna (1660-1708)
+v: 1651-1708
+1 BLOODTYPE B
+1 HEIGHT 1.4m
+1 WEIGHT 71.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @52@ INDI
+1 NAME Baltasar Nicolás/Bornaci
+1 SEX m
+1 BIRT
+2 DATE 1625
+1 DEAT
+2 DATE 1685
+1 PERSONALITY Familiar
+Amigable
+Antipático
+1 FISICO Apuesto
+Escuálido
+Desaliñado
+1 TITLES Vizconde de Hunmaña (1652-1685)
+Gobernador de Biesaña (1646-1685)
+v: 1625-1685
+1 BLOODTYPE A
+1 HEIGHT 1.27m
+1 WEIGHT 84.0kg
+1 HAIRCOLOR Oscuro
+
+0 @53@ INDI
+1 NAME FEDERICO I/Bornaci
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1681
+1 DEAT
+2 DATE 1753
+1 PERSONALITY Malhumorado
+Amigable
+Risueño
+1 FISICO Feo
+Escuálido
+Corpulento
+1 TITLES Rey de Inlavia (1732-1753)
+Virrey de Biegogria (1719-1753)
+Virrey de Gualosia (1682-1753)
+Archiduque de Cerloria (1748-1753)
+v: 1681-1753
+1 BLOODTYPE A
+1 HEIGHT 1.47m
+1 WEIGHT 81.5kg
+1 HAIRCOLOR Negro
+
+0 @54@ INDI
+1 NAME Blanca/Namalgesor
+1 SEX f
+1 BIRT
+2 DATE 1685
+1 DEAT
+2 DATE 1748
+1 PERSONALITY Antipática
+Adúltera
+Paciente
+1 FISICO Delgada
+Apuesta
+Masculina
+1 TITLES Virreina de Gerlocia (1716-1748)
+Virreina de Pordatanaquia (1737-1748)
+Archiduquesa de Cerloria (1719-1748)
+Archiduquesa de Voiringaña (1732-1748)
+v: 1685-1748
+1 BLOODTYPE AB
+1 HEIGHT 1.54m
+1 WEIGHT 79.0kg
+1 HAIRCOLOR Pelirrojo
+
+0 @55@ INDI
+1 NAME Inés/Namalgesor
+1 SEX f
+1 BIRT
+2 DATE 1696
+1 DEAT
+2 DATE 1737
+1 PERSONALITY Antipática
+Sociable
+Pervertida
+1 FISICO Sucia
+Narigona
+Velluda
+1 TITLES Virreina de Pordatanaquia (1716-1737)
+Duquesa de Monrina (1711-1737)
+Autocratriz de Belvivia (1714-1737)
+Marquesa de Moltonia (1719-1737)
+v: 1696-1737
+1 BLOODTYPE AB
+1 HEIGHT 1.62m
+1 WEIGHT 76.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @56@ INDI
+1 NAME Octavia/Namalgesor
+1 SEX f
+1 BIRT
+2 DATE 1682
+1 DEAT
+2 DATE 1728
+1 PERSONALITY Introvertida
+Ascética
+Inculta
+1 FISICO Orejona
+Bizca
+Masculina
+1 TITLES Archiduquesa de Povitria (1694-1728)
+Vizcondesa de Sidena (1698-1728)
+Señora de Pomemariña (1693-1728)
+v: 1682-1728
+1 BLOODTYPE B
+1 HEIGHT 1.57m
+1 WEIGHT 64.0kg
+1 HAIRCOLOR Rubio
+
+0 @57@ INDI
+1 NAME Jorge/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1676
+1 DEAT
+2 DATE 1709
+1 PERSONALITY Descuidado
+Extrovertido
+Secretivo
+1 FISICO Hermoso
+Pálido
+Calvo
+1 TITLES Vizconde de Bulglania (1685-1709)
+Vizconde de Lolonia (1694-1709)
+Gobernador de Tucrania (1682-1709)
+v: 1676-1709
+1 BLOODTYPE A
+1 HEIGHT 1.39m
+1 WEIGHT 66.5kg
+1 HAIRCOLOR Oscuro
+
+0 @58@ INDI
+1 NAME Martín Terencio/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1677
+1 DEAT
+2 DATE 1724
+1 PERSONALITY Torpe
+Religioso
+Campechano
+1 FISICO Esbelto
+Escuálido
+Rollizo
+1 TITLES Duque de Finglalosia (1705-1724)
+v: 1677-1724
+1 BLOODTYPE B
+1 HEIGHT 1.34m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @59@ INDI
+1 NAME Francisco/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1712
+1 DEAT
+2 DATE 1771
+1 PERSONALITY Paciente
+Torpe
+Perseverante
+1 FISICO Apuesto
+Rollizo
+Elegante
+1 TITLES Virrey de Gerlocia (1748-1771)
+Virrey de Polola (1716-1771)
+Archiduque de Cerloria (1753-1771)
+Duque de Finglalosia (1748-1771)
+v: 1712-1771
+1 BLOODTYPE B
+1 HEIGHT 1.37m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Pelirrojo
+
+0 @60@ INDI
+1 NAME Boris/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1717
+1 DEAT
+2 DATE 1762
+1 PERSONALITY Adúltero
+Torpe
+Gracioso
+1 FISICO Apuesto
+Escuálido
+Zurdo
+1 TITLES Virrey de Pordatanaquia (1748-1762)
+Archiduque de Luluburgo (1753-1762)
+Duque de Inragiña (1748-1762)
+Autócrator de Belvivia (1737-1762)
+v: 1717-1762
+1 BLOODTYPE B
+1 HEIGHT 1.44m
+1 WEIGHT 59.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @61@ INDI
+1 NAME OCTAVIA I/Bornaci
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1718
+1 DEAT
+2 DATE 1786
+1 PERSONALITY Malhumorada
+Introvertida
+Campechana
+1 FISICO Corpulenta
+Masculina
+Calva
+1 TITLES Reina de Inlavia (1753-1786)
+Virreina de Gualosia (1775-1786)
+Virreina de Lugolandia (1719-1786)
+Virreina de Pornania (1732-1786)
+v: 1718-1786
+1 BLOODTYPE AB
+1 HEIGHT 1.32m
+1 WEIGHT 81.0kg
+1 HAIRCOLOR Pardo
+
+0 @62@ INDI
+1 NAME Francisco/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1690
+1 DEAT
+2 DATE 1738
+1 PERSONALITY Casto
+Dejado
+Imprudente
+1 FISICO Lagrimoso
+Ceniciento
+Aguileño
+1 TITLES Autócrator de Zezelanda (1718-1738)
+Señor de Herlonia (1719-1738)
+v: 1690-1738
+1 BLOODTYPE A
+1 HEIGHT 1.55m
+1 WEIGHT 56.0kg
+1 HAIRCOLOR Oscuro
+
+0 @63@ INDI
+1 NAME Mercedes Bárbara/Ausmani
+1 SEX f
+1 BIRT
+2 DATE 1693
+1 DEAT
+2 DATE 1761
+1 PERSONALITY Fiel
+Familiar
+Introvertida
+1 FISICO Jorobada
+Masculina
+Bizca
+1 TITLES Señora de Yurinia (1724-1761)
+Gobernadora de Eslogal (1723-1761)
+Gobernadora de Herlanaña (1731-1761)
+v: 1693-1761
+1 BLOODTYPE B
+1 HEIGHT 1.86m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @64@ INDI
+1 NAME Rolando/Jacasza
+1 SEX m
+1 BIRT
+2 DATE 1701
+1 DEAT
+2 DATE 1774
+1 PERSONALITY Oveja negra
+Casto
+Dejado
+1 FISICO Orejón
+Rollizo
+Sensual
+1 TITLES Virrey de Yucradensia (1732-1774)
+Autócrator de Ligania (1739-1774)
+Marqués de Altavia (1727-1774)
+v: 1701-1774
+1 BLOODTYPE A
+1 HEIGHT 1.75m
+1 WEIGHT 73.5kg
+1 HAIRCOLOR Castaño
+
+0 @65@ INDI
+1 NAME Inés/Jacasza
+1 SEX f
+1 BIRT
+2 DATE 1743
+1 DEAT
+2 DATE 1775
+1 PERSONALITY Introvertida
+negra
+Traicionera
+1 FISICO Calva
+Orejona
+Inexpresiva
+1 TITLES Virreina de Gualosia (1753-1775)
+Duquesa de Belloquia (1748-1775)
+Duquesa de Inragiña (1771-1775)
+Marquesa de Altavia (1774-1775)
+v: 1743-1775
+1 BLOODTYPE B
+1 HEIGHT 1.52m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Pelirrojo
+
+0 @66@ INDI
+1 NAME Octavia/Bagiegos
+1 SEX f
+1 BIRT
+2 DATE 1726
+1 DEAT
+2 DATE 1785
+1 PERSONALITY Conservadora
+Avariciosa
+Simpática
+1 FISICO Pulcra
+Jorobada
+Orejona
+1 TITLES Virreina de Ingagosña (1742-1785)
+v: 1726-1785
+1 BLOODTYPE B
+1 HEIGHT 1.54m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Negro
+
+0 @67@ INDI
+1 NAME Felicia/Vareter
+1 SEX f
+1 BIRT
+2 DATE 1748
+1 DEAT
+2 DATE 1808
+1 PERSONALITY Graciosa
+Simpática
+Liberal
+1 FISICO Zurda
+Pulcra
+Sucia
+1 TITLES Virreina de Lugolandia (1786-1808)
+Virreina de Polola (1771-1808)
+Virreina de Pornania (1806-1808)
+Archiduquesa de Cerloria (1786-1808)
+v: 1748-1808
+1 BLOODTYPE B
+1 HEIGHT 1.5m
+1 WEIGHT 57.5kg
+1 HAIRCOLOR Negro
+
+0 @68@ INDI
+1 NAME RAFAEL I/Jacasza
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1751
+1 DEAT
+2 DATE 1806
+1 PERSONALITY Introvertido
+Casto
+Persuasivo
+1 FISICO Calvo
+Orejón
+Manco
+1 TITLES Rey de Inlavia (1786-1806)
+Virrey de Biegogria (1753-1806)
+Virrey de Pornania (1786-1806)
+Archiduque de Notugia (1801-1806)
+v: 1751-1806
+1 BLOODTYPE AB
+1 HEIGHT 1.42m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Oscuro
+
+0 @69@ INDI
+1 NAME Francisco/Vareter
+1 SEX m
+1 BIRT
+2 DATE 1753
+1 DEAT
+2 DATE 1809
+1 PERSONALITY Torpe
+Conservador
+Casto
+1 FISICO Escuálido
+Orejón
+Maloliente
+1 TITLES Virrey de Biegogria (1806-1809)
+Virrey de Gerlocia (1771-1809)
+Virrey de Gualosia (1786-1809)
+Virrey de Ingagosña (1785-1809)
+v: 1753-1809
+1 BLOODTYPE B
+1 HEIGHT 1.64m
+1 WEIGHT 67.5kg
+1 HAIRCOLOR Negro
+
+0 @70@ INDI
+1 NAME Boris/Caloza
+1 SEX m
+1 BIRT
+2 DATE 1743
+1 DEAT
+2 DATE 1801
+1 PERSONALITY Amoral
+Ascético
+Loco
+1 FISICO Canijo
+Miope
+Ceniciento
+1 TITLES Archiduque de Notugia (1760-1801)
+Duque de Luzecia (1761-1801)
+Marqués de Guagagria (1759-1801)
+v: 1743-1801
+1 BLOODTYPE A
+1 HEIGHT 1.77m
+1 WEIGHT 68.0kg
+1 HAIRCOLOR Negro
+
+0 @71@ INDI
+1 NAME Mariana/Vareter
+1 SEX f
+1 BIRT
+2 DATE 1733
+1 DEAT
+2 DATE 1790
+1 PERSONALITY Cobarde
+Gorrona
+Risueña
+1 FISICO saltones
+Atractiva
+Entrecana
+1 TITLES Autocratriz de Zegoterra (1754-1790)
+v: 1733-1790
+1 BLOODTYPE A
+1 HEIGHT 1.7m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Pardo
+
+0 @72@ INDI
+1 NAME Marta Eleanor/Aroburgo
+1 SEX f
+1 BIRT
+2 DATE 1749
+1 DEAT
+2 DATE 1803
+1 PERSONALITY de
+Risueña
+Discutidora
+1 FISICO deformes
+Cuellicorta
+Robusta
+1 TITLES Fijodalga de Finlonia (1765-1803)
+v: 1749-1803
+1 BLOODTYPE 0
+1 HEIGHT 1.88m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Oscuro
+
+0 @73@ INDI
+1 NAME Teodosio/(cocinero)
+1 SEX m
+1 BIRT
+2 DATE 1766
+1 DEAT
+2 DATE 1823
+1 PERSONALITY Familiar
+Caótico
+Errático
+1 FISICO Ceniciento
+Desagradable
+Bilioso
+1 TITLES 
+v: 1766-1823
+1 BLOODTYPE AB
+1 HEIGHT 1.96m
+1 WEIGHT 69.5kg
+1 HAIRCOLOR Oscuro
+
+0 @74@ INDI
+1 NAME Berenguela/Expósito
+1 SEX f
+1 BIRT
+2 DATE 1787
+1 DEAT
+2 DATE 1838
+1 PERSONALITY Liberal
+Caótica
+Conservadora
+1 FISICO Sucia
+Desagradable
+Pulcra
+1 TITLES Virreina de Gerlocia (1809-1838)
+Virreina de Lugolandia (1808-1838)
+Virreina de Polola (1809-1838)
+Archiduquesa de Cerloria (1826-1838)
+v: 1787-1838
+1 BLOODTYPE B
+1 HEIGHT 1.47m
+1 WEIGHT 77.5kg
+1 HAIRCOLOR Negro
+
+0 @75@ INDI
+1 NAME Blanca/Vareter
+1 SEX f
+1 BIRT
+2 DATE 1787
+1 DEAT
+2 DATE 1848
+1 PERSONALITY Casta
+Gorrona
+Inmoral
+1 FISICO Escuálida
+saltones
+Jorobada
+1 TITLES Virreina de Biegogria (1809-1848)
+Virreina de Gerlocia (1838-1848)
+Virreina de Ingagosña (1809-1848)
+Virreina de Pordatanaquia (1826-1848)
+v: 1787-1848
+1 BLOODTYPE AB
+1 HEIGHT 1.48m
+1 WEIGHT 56.0kg
+1 HAIRCOLOR Pelirrojo
+
+0 @76@ INDI
+1 NAME BORIS IV/Jacasza
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1791
+1 DEAT
+2 DATE 1826
+1 PERSONALITY Introvertido
+Digno de confianza
+Vividor
+1 FISICO Orejón
+Dientes deformes
+Ojeroso
+1 TITLES Rey de Inlavia (1806-1826)
+Virrey de Gualosia (1809-1826)
+Virrey de Pordatanaquia (1809-1826)
+Archiduque de Cerloria (1808-1826)
+v: 1791-1826
+1 BLOODTYPE A
+1 HEIGHT 1.7m
+1 WEIGHT 82.5kg
+1 HAIRCOLOR Negro
+
+0 @77@ INDI
+1 NAME Francisco/Bornaci
+1 SEX m
+1 BIRT
+2 DATE 1781
+1 DEAT
+2 DATE 1847
+1 PERSONALITY Bueno
+Patriota
+Ateo
+1 FISICO Bello
+Lagrimoso
+Miope
+1 TITLES Duque de Finglalanda (1796-1847)
+v: 1781-1847
+1 BLOODTYPE B
+1 HEIGHT 1.84m
+1 WEIGHT 54.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @78@ INDI
+1 NAME Ava/Ludogio
+1 SEX f
+1 BIRT
+2 DATE 1799
+1 DEAT
+2 DATE 1858
+1 PERSONALITY Errática
+Insensible
+Viciosa
+1 FISICO Jorobada
+Tetona
+Atractiva
+1 TITLES Archiduquesa de Rulolia (1812-1858)
+Marquesa de Hoglaña (1815-1858)
+v: 1799-1858
+1 BLOODTYPE 0
+1 HEIGHT 1.58m
+1 WEIGHT 66.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @79@ INDI
+1 NAME ANTONIO I/Jacasza
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1822
+1 DEAT
+2 DATE 1873
+1 PERSONALITY Digno de confianza
+Errático
+Cascarrabias
+1 FISICO Orejón
+Atractivo
+Ceniciento
+1 TITLES Rey de Inlavia (1826-1873)
+Virrey de Biegogria (1848-1873)
+Virrey de Ingagosña (1848-1873)
+Virrey de Lugolandia (1838-1873)
+v: 1822-1873
+1 BLOODTYPE 0
+1 HEIGHT 1.76m
+1 WEIGHT 78.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @80@ INDI
+1 NAME Margarita/Jacasza
+1 SEX f
+1 BIRT
+2 DATE 1824
+1 DEAT
+2 DATE 1896
+1 PERSONALITY Vividora
+Insensible
+Graciosa
+1 FISICO Orejona
+Tetona
+Bizca
+1 TITLES Virreina de Biegogria (1873-1896)
+Virreina de Gerlocia (1848-1896)
+Virreina de Gualosia (1826-1896)
+Virreina de Lugolandia (1873-1896)
+v: 1824-1896
+1 BLOODTYPE 0
+1 HEIGHT 1.74m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @81@ INDI
+1 NAME Francisco/Nahenviniolois
+1 SEX m
+1 BIRT
+2 DATE 1813
+1 DEAT
+2 DATE 1892
+1 PERSONALITY Bueno
+Torpe
+Patriota
+1 FISICO Corpulento
+Granoso
+Dientes deformes
+1 TITLES Archiduque de Lusasia (1829-1892)
+Autócrator de Suepagia (1825-1892)
+Hidalgo de Guatumasia (1820-1892)
+v: 1813-1892
+1 BLOODTYPE 0
+1 HEIGHT 1.71m
+1 WEIGHT 64.0kg
+1 HAIRCOLOR Oscuro
+
+0 @82@ INDI
+1 NAME Ana/(noble)
+1 SEX f
+1 BIRT
+2 DATE 1819
+1 DEAT
+2 DATE 1886
+1 PERSONALITY Casta
+Atenta
+Revolucionaria
+1 FISICO Biliosa
+Delgada
+Morena
+1 TITLES 
+v: 1819-1886
+1 BLOODTYPE B
+1 HEIGHT 1.51m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Oscuro
+
+0 @83@ INDI
+1 NAME ALDARA I/Jacasza
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1851
+1 DEAT
+2 DATE 1900
+1 PERSONALITY Errática
+Revolucionaria
+Antipática
+1 FISICO Atractiva
+Delgada
+Miope
+1 TITLES Reina de Inlavia (1873-1900)
+Virreina de Biegogria (1896-1900)
+Virreina de Gualosia (1896-1900)
+Virreina de Ingagosña (1873-1900)
+v: 1851-1900
+1 BLOODTYPE B
+1 HEIGHT 1.81m
+1 WEIGHT 65.5kg
+1 HAIRCOLOR Castaño
+
+0 @84@ INDI
+1 NAME Francisco/Aroburgo
+1 SEX m
+1 BIRT
+2 DATE 1837
+1 DEAT
+2 DATE 1882
+1 PERSONALITY Oveja negra
+Erudito
+Limpio
+1 FISICO Melenudo
+Dientes deformes
+Barbudo
+1 TITLES Hidalgo de Oldana (1875-1882)
+v: 1837-1882
+1 BLOODTYPE AB
+1 HEIGHT 1.71m
+1 WEIGHT 80.0kg
+1 HAIRCOLOR Oscuro
+
+0 @85@ INDI
+1 NAME Arcadio/(soldado)
+1 SEX m
+1 BIRT
+2 DATE 1853
+1 DEAT
+2 DATE 1920
+1 PERSONALITY Dejado
+Amoral
+Cobarde
+1 FISICO Cetrino
+Ojos saltones
+Manco
+1 TITLES 
+v: 1853-1920
+1 BLOODTYPE A
+1 HEIGHT 1.95m
+1 WEIGHT 77.0kg
+1 HAIRCOLOR Negro
+
+0 @86@ INDI
+1 NAME ROGELIO I/Aroburgo
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1880
+1 DEAT
+2 DATE 1903
+1 PERSONALITY Revolucionario
+Amoral
+Obsesivo
+1 FISICO Miope
+Cetrino
+Bello
+1 TITLES Rey de Inlavia (1900-1903)
+Virrey de Biegogria (1900-1903)
+Virrey de Gerlocia (1896-1903)
+Virrey de Gualosia (1900-1903)
+v: 1880-1903
+1 BLOODTYPE B
+1 HEIGHT 1.78m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Castaño
+
+0 @87@ INDI
+1 NAME Leovigildo/Namalgesor
+1 SEX m
+1 BIRT
+2 DATE 1841
+1 DEAT
+2 DATE 1907
+1 PERSONALITY Adaptable
+Terco
+Orgulloso
+1 FISICO Barbudo
+Rollizo
+Zurdo
+1 TITLES Barón de Olrruzegal (1879-1907)
+Señor de Sueriña (1884-1907)
+v: 1841-1907
+1 BLOODTYPE B
+1 HEIGHT 1.61m
+1 WEIGHT 66.5kg
+1 HAIRCOLOR Oscuro
+
+0 @88@ FAM
+1 RELATION Marriage
+1 HUSB @1@
+1 WIFE @2@
+1 DISPLAYTEXT 1264-1273
+1 CHIL @3@
+1 CHIL @4@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @88@
+1 INDIVIDUAL @1@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @88@
+1 INDIVIDUAL @2@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @88@
+1 INDIVIDUAL @3@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @88@
+1 INDIVIDUAL @4@
+0 PEDIGREELINK
+0 @89@ FAM
+1 RELATION Marriage
+1 HUSB @4@
+1 WIFE @7@
+1 DISPLAYTEXT 1302-1327
+1 CHIL @8@
+1 CHIL @9@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @89@
+1 INDIVIDUAL @4@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @89@
+1 INDIVIDUAL @7@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @89@
+1 INDIVIDUAL @8@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @89@
+1 INDIVIDUAL @9@
+0 PEDIGREELINK
+0 @90@ FAM
+1 RELATION Marriage
+1 HUSB @10@
+1 WIFE @8@
+1 DISPLAYTEXT 1335-1368
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @90@
+1 INDIVIDUAL @10@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @90@
+1 INDIVIDUAL @8@
+0 PEDIGREELINK
+0 @91@ FAM
+1 RELATION Marriage
+1 HUSB @11@
+1 WIFE @9@
+1 DISPLAYTEXT 1344-1371
+1 CHIL @12@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @91@
+1 INDIVIDUAL @11@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @91@
+1 INDIVIDUAL @9@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @91@
+1 INDIVIDUAL @12@
+0 PEDIGREELINK
+0 @92@ FAM
+1 RELATION Marriage
+1 HUSB @13@
+1 WIFE @12@
+1 DISPLAYTEXT 1381-1404
+1 CHIL @14@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @92@
+1 INDIVIDUAL @13@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @92@
+1 INDIVIDUAL @12@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @92@
+1 INDIVIDUAL @14@
+0 PEDIGREELINK
+0 @93@ FAM
+1 RELATION Marriage
+1 HUSB @15@
+1 WIFE @14@
+1 DISPLAYTEXT 1414-1428
+1 CHIL @16@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @93@
+1 INDIVIDUAL @15@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @93@
+1 INDIVIDUAL @14@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @93@
+1 INDIVIDUAL @16@
+0 PEDIGREELINK
+0 @94@ FAM
+1 RELATION Marriage
+1 HUSB @17@
+1 WIFE @16@
+1 DISPLAYTEXT 1443-1476
+1 CHIL @18@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @94@
+1 INDIVIDUAL @17@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @94@
+1 INDIVIDUAL @16@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @94@
+1 INDIVIDUAL @18@
+0 PEDIGREELINK
+0 @95@ FAM
+1 RELATION Marriage
+1 HUSB @19@
+1 WIFE @18@
+1 DISPLAYTEXT 1485-1495
+1 CHIL @20@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @95@
+1 INDIVIDUAL @19@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @95@
+1 INDIVIDUAL @18@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @95@
+1 INDIVIDUAL @20@
+0 PEDIGREELINK
+0 @96@ FAM
+1 RELATION Marriage
+1 HUSB @21@
+1 WIFE @18@
+1 DISPLAYTEXT 1496-1521
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @96@
+1 INDIVIDUAL @21@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @96@
+1 INDIVIDUAL @18@
+0 PEDIGREELINK
+0 @97@ FAM
+1 RELATION Marriage
+1 HUSB @20@
+1 WIFE @24@
+1 DISPLAYTEXT 1515-1522
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @97@
+1 INDIVIDUAL @20@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @97@
+1 INDIVIDUAL @24@
+0 PEDIGREELINK
+0 @98@ FAM
+1 RELATION Marriage
+1 HUSB @23@
+1 WIFE @25@
+1 DISPLAYTEXT 1524-1561
+1 CHIL @26@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @98@
+1 INDIVIDUAL @23@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @98@
+1 INDIVIDUAL @25@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @98@
+1 INDIVIDUAL @26@
+0 PEDIGREELINK
+0 @99@ FAM
+1 RELATION Marriage
+1 HUSB @26@
+1 WIFE @29@
+1 DISPLAYTEXT 1575-1592
+1 CHIL @30@
+1 CHIL @31@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @99@
+1 INDIVIDUAL @26@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @99@
+1 INDIVIDUAL @29@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @99@
+1 INDIVIDUAL @30@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @99@
+1 INDIVIDUAL @31@
+0 PEDIGREELINK
+0 @100@ FAM
+1 RELATION Marriage
+1 HUSB @32@
+1 WIFE @30@
+1 DISPLAYTEXT 1602-1626
+1 CHIL @33@
+1 CHIL @34@
+1 CHIL @37@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @100@
+1 INDIVIDUAL @32@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @100@
+1 INDIVIDUAL @30@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @100@
+1 INDIVIDUAL @33@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @100@
+1 INDIVIDUAL @34@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @100@
+1 INDIVIDUAL @37@
+0 PEDIGREELINK
+0 @101@ FAM
+1 RELATION Marriage
+1 HUSB @35@
+1 WIFE @31@
+1 DISPLAYTEXT 1612-1644
+1 CHIL @36@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @101@
+1 INDIVIDUAL @35@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @101@
+1 INDIVIDUAL @31@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @101@
+1 INDIVIDUAL @36@
+0 PEDIGREELINK
+0 @102@ FAM
+1 RELATION Marriage
+1 HUSB @34@
+1 WIFE @38@
+1 DISPLAYTEXT 1624-1658
+1 CHIL @39@
+1 CHIL @42@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @102@
+1 INDIVIDUAL @34@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @102@
+1 INDIVIDUAL @38@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @102@
+1 INDIVIDUAL @39@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @102@
+1 INDIVIDUAL @42@
+0 PEDIGREELINK
+0 @103@ FAM
+1 RELATION Marriage
+1 HUSB @40@
+1 WIFE @36@
+1 DISPLAYTEXT 1639-1669
+1 CHIL @41@
+1 CHIL @43@
+1 CHIL @45@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @103@
+1 INDIVIDUAL @40@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @103@
+1 INDIVIDUAL @36@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @103@
+1 INDIVIDUAL @41@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @103@
+1 INDIVIDUAL @43@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @103@
+1 INDIVIDUAL @45@
+0 PEDIGREELINK
+0 @104@ FAM
+1 RELATION Marriage
+1 HUSB @44@
+1 WIFE @39@
+1 DISPLAYTEXT 1652-1674
+1 CHIL @48@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @104@
+1 INDIVIDUAL @44@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @104@
+1 INDIVIDUAL @39@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @104@
+1 INDIVIDUAL @48@
+0 PEDIGREELINK
+0 @105@ FAM
+1 RELATION Marriage
+1 HUSB @37@
+1 WIFE @46@
+1 DISPLAYTEXT 1655-1666
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @105@
+1 INDIVIDUAL @37@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @105@
+1 INDIVIDUAL @46@
+0 PEDIGREELINK
+0 @106@ FAM
+1 RELATION Marriage
+1 HUSB @41@
+1 WIFE @47@
+1 DISPLAYTEXT 1667-1706
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @106@
+1 INDIVIDUAL @41@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @106@
+1 INDIVIDUAL @47@
+0 PEDIGREELINK
+0 @107@ FAM
+1 RELATION Marriage
+1 HUSB @45@
+1 WIFE @51@
+1 DISPLAYTEXT 1677-1708
+1 CHIL @54@
+1 CHIL @55@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @107@
+1 INDIVIDUAL @45@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @107@
+1 INDIVIDUAL @51@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @107@
+1 INDIVIDUAL @54@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @107@
+1 INDIVIDUAL @55@
+0 PEDIGREELINK
+0 @108@ FAM
+1 RELATION Marriage
+1 HUSB @52@
+1 WIFE @42@
+1 DISPLAYTEXT 1678-1685
+1 CHIL @53@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @108@
+1 INDIVIDUAL @52@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @108@
+1 INDIVIDUAL @42@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @108@
+1 INDIVIDUAL @53@
+0 PEDIGREELINK
+0 @109@ FAM
+1 RELATION Marriage
+1 HUSB @53@
+1 WIFE @56@
+1 DISPLAYTEXT 1702-1728
+1 CHIL @61@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @109@
+1 INDIVIDUAL @53@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @109@
+1 INDIVIDUAL @56@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @109@
+1 INDIVIDUAL @61@
+0 PEDIGREELINK
+0 @110@ FAM
+1 RELATION Marriage
+1 HUSB @57@
+1 WIFE @54@
+1 DISPLAYTEXT 1705-1709
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @110@
+1 INDIVIDUAL @57@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @110@
+1 INDIVIDUAL @54@
+0 PEDIGREELINK
+0 @111@ FAM
+1 RELATION Marriage
+1 HUSB @58@
+1 WIFE @54@
+1 DISPLAYTEXT 1711-1724
+1 CHIL @59@
+1 CHIL @60@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @111@
+1 INDIVIDUAL @58@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @111@
+1 INDIVIDUAL @54@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @111@
+1 INDIVIDUAL @59@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @111@
+1 INDIVIDUAL @60@
+0 PEDIGREELINK
+0 @112@ FAM
+1 RELATION Marriage
+1 HUSB @62@
+1 WIFE @55@
+1 DISPLAYTEXT 1724-1737
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @112@
+1 INDIVIDUAL @62@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @112@
+1 INDIVIDUAL @55@
+0 PEDIGREELINK
+0 @113@ FAM
+1 RELATION Marriage
+1 HUSB @59@
+1 WIFE @63@
+1 DISPLAYTEXT 1736-1761
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @113@
+1 INDIVIDUAL @59@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @113@
+1 INDIVIDUAL @63@
+0 PEDIGREELINK
+0 @114@ FAM
+1 RELATION Marriage
+1 HUSB @64@
+1 WIFE @61@
+1 DISPLAYTEXT 1741-1774
+1 CHIL @65@
+1 CHIL @68@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @114@
+1 INDIVIDUAL @64@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @114@
+1 INDIVIDUAL @61@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @114@
+1 INDIVIDUAL @65@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @114@
+1 INDIVIDUAL @68@
+0 PEDIGREELINK
+0 @115@ FAM
+1 RELATION Marriage
+1 HUSB @60@
+1 WIFE @66@
+1 DISPLAYTEXT 1744-1762
+1 CHIL @67@
+1 CHIL @69@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @115@
+1 INDIVIDUAL @60@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @115@
+1 INDIVIDUAL @66@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @115@
+1 INDIVIDUAL @67@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @115@
+1 INDIVIDUAL @69@
+0 PEDIGREELINK
+0 @116@ FAM
+1 RELATION Marriage
+1 HUSB @70@
+1 WIFE @65@
+1 DISPLAYTEXT 1762-1775
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @116@
+1 INDIVIDUAL @70@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @116@
+1 INDIVIDUAL @65@
+0 PEDIGREELINK
+0 @117@ FAM
+1 RELATION Marriage
+1 HUSB @69@
+1 WIFE @71@
+1 DISPLAYTEXT 1774-1790
+1 CHIL @75@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @117@
+1 INDIVIDUAL @69@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @117@
+1 INDIVIDUAL @71@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @117@
+1 INDIVIDUAL @75@
+0 PEDIGREELINK
+0 @118@ FAM
+1 RELATION Marriage
+1 HUSB @68@
+1 WIFE @72@
+1 DISPLAYTEXT 1785-1803
+1 CHIL @76@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @118@
+1 INDIVIDUAL @68@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @118@
+1 INDIVIDUAL @72@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @118@
+1 INDIVIDUAL @76@
+0 PEDIGREELINK
+0 @119@ FAM
+1 RELATION Marriage
+1 HUSB @77@
+1 WIFE @75@
+1 DISPLAYTEXT 1808-1847
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @119@
+1 INDIVIDUAL @77@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @119@
+1 INDIVIDUAL @75@
+0 PEDIGREELINK
+0 @120@ FAM
+1 RELATION Marriage
+1 HUSB @76@
+1 WIFE @78@
+1 DISPLAYTEXT 1818-1826
+1 CHIL @79@
+1 CHIL @80@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @120@
+1 INDIVIDUAL @76@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @120@
+1 INDIVIDUAL @78@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @120@
+1 INDIVIDUAL @79@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @120@
+1 INDIVIDUAL @80@
+0 PEDIGREELINK
+0 @121@ FAM
+1 RELATION Marriage
+1 HUSB @81@
+1 WIFE @80@
+1 DISPLAYTEXT 1844-1892
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @121@
+1 INDIVIDUAL @81@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @121@
+1 INDIVIDUAL @80@
+0 PEDIGREELINK
+0 @122@ FAM
+1 RELATION Marriage
+1 HUSB @84@
+1 WIFE @83@
+1 DISPLAYTEXT 1876-1882
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @122@
+1 INDIVIDUAL @84@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @122@
+1 INDIVIDUAL @83@
+0 PEDIGREELINK
+0 @123@ FAM
+1 RELATION Marriage
+1 HUSB @87@
+1 WIFE @83@
+1 DISPLAYTEXT 1885-1900
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @123@
+1 INDIVIDUAL @87@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @123@
+1 INDIVIDUAL @83@
+0 PEDIGREELINK
+0 @124@ FAM
+1 RELATION LoveAffair
+1 HUSB @4@
+1 WIFE @5@
+1 DISPLAYTEXT 1297
+1 CHIL @6@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @124@
+1 INDIVIDUAL @4@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @124@
+1 INDIVIDUAL @5@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @124@
+1 INDIVIDUAL @6@
+0 @125@ FAM
+1 RELATION LoveAffair
+1 HUSB @22@
+1 WIFE @18@
+1 DISPLAYTEXT 1500
+1 CHIL @23@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @125@
+1 INDIVIDUAL @22@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @125@
+1 INDIVIDUAL @18@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @125@
+1 INDIVIDUAL @23@
+0 @126@ FAM
+1 RELATION LoveAffair
+1 HUSB @26@
+1 WIFE @27@
+1 DISPLAYTEXT 1574
+1 CHIL @28@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @126@
+1 INDIVIDUAL @26@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @126@
+1 INDIVIDUAL @27@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @126@
+1 INDIVIDUAL @28@
+0 @127@ FAM
+1 RELATION LoveAffair
+1 HUSB @49@
+1 WIFE @39@
+1 DISPLAYTEXT 1674
+1 CHIL @50@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @127@
+1 INDIVIDUAL @49@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @127@
+1 INDIVIDUAL @39@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @127@
+1 INDIVIDUAL @50@
+0 @128@ FAM
+1 RELATION LoveAffair
+1 HUSB @73@
+1 WIFE @67@
+1 DISPLAYTEXT 1787
+1 CHIL @74@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @128@
+1 INDIVIDUAL @73@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @128@
+1 INDIVIDUAL @67@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @128@
+1 INDIVIDUAL @74@
+0 @129@ FAM
+1 RELATION LoveAffair
+1 HUSB @79@
+1 WIFE @82@
+1 DISPLAYTEXT 1851
+1 CHIL @83@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @129@
+1 INDIVIDUAL @79@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @129@
+1 INDIVIDUAL @82@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @129@
+1 INDIVIDUAL @83@
+0 @130@ FAM
+1 RELATION LoveAffair
+1 HUSB @85@
+1 WIFE @83@
+1 DISPLAYTEXT 1880
+1 CHIL @86@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @130@
+1 INDIVIDUAL @85@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @130@
+1 INDIVIDUAL @83@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @130@
+1 INDIVIDUAL @86@
+0 TLRL
+0 LABEL 
+1 POSITION -100,0 
+2 WIDTH 250 
+2 HEIGHT 200 
+1 TEXT Francisco I Ausmani (1246-1301)
+Francisco II Ausmani (1301-1327)
+Inés I Ausmani (1327-1386)
+Blanca I Planarver (1386-1423)
+Blanca II Namalgesor (1423-1447)
+Inés II Plangette (1447-1476)
+Margarita I Trasgedi (1476-1521)
+Francisco III Tucastte (1521-1544)
+Boris I Aroburgo (1544-1561)
+Boris II Aroburgo (1561-1599)
+Claudio I Expósito (1599-1611)
+Blanca III Aroburgo (1611-1626)
+Boris III Borzollon (1626-1658)
+Ataulfo I Borzollon (1658-1666)
+Isabel I Borzollon (1666-1680)
+Blanca IV Borzollon (1680-1682)
+Berengaria I Aroburgo (1682-1732)
+Federico I Bornaci (1732-1753)
+Octavia I Bornaci (1753-1786)
+Rafael I Jacasza (1786-1806)
+Boris IV Jacasza (1806-1826)
+Antonio I Jacasza (1826-1873)
+Aldara I Jacasza (1873-1900)
+Rogelio I Aroburgo (1900-1903)
+
+
+Last year = 1921
+ 
+2 PADDING 10 
+1 DISPLAY 
+2 COLOR 
+3 TEXT #000000
+3 FILL #C8C8FF
+3 BORDER #000080

@@ -1,0 +1,4289 @@
+0 HEAD
+1 SOUR Dinasty
+2 NAME Random family tree generator
+2 VERS 2
+2 CORP A. López
+1 CHAR ANSI
+1 GEDC
+2 VERS 5.5
+2 FORM LINAGE-LINKED
+0 GENOMAP
+0 @1@ INDI
+1 NAME ADALBERTO I/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 0908
+1 DEAT
+2 DATE 0974
+1 PERSONALITY Idealista
+Paciente
+Cascarrabias
+1 FISICO Miope
+Sensual
+Jorobado
+1 TITLES Monarca de Hunmania (0927-0974)
+Vizconde de Bulledarrulandia (0945-0974)
+Hidalgo de Ausdequia (0972-0974)
+v: 0908-0974
+1 BLOODTYPE B
+1 HEIGHT 2.1m
+1 WEIGHT 75.5kg
+1 HAIRCOLOR Oscuro
+
+0 @2@ INDI
+1 NAME Auria/Narans
+1 SEX f
+1 BIRT
+2 DATE 0903
+1 DEAT
+2 DATE 0945
+1 PERSONALITY Obsesiva
+Antipática
+Loca
+1 FISICO Inexpresiva
+Corpulenta
+Desagradable
+1 TITLES Vizcondesa de Bulledarrulandia (0925-0945)
+Vizcondesa de Irmaquia (0923-0945)
+Baronesa de Yutosia (0924-0945)
+v: 0903-0945
+1 BLOODTYPE AB
+1 HEIGHT 1.66m
+1 WEIGHT 73.5kg
+1 HAIRCOLOR Pardo
+
+0 @3@ INDI
+1 NAME CHINDASVINTO I/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 0932
+1 DEAT
+2 DATE 0985
+1 PERSONALITY Paciente
+Obsesivo
+Depresivo
+1 FISICO Miope
+Inexpresivo
+Delgado
+1 TITLES Monarca de Hunmania (0974-0985)
+Vizconde de Irmaquia (0945-0985)
+Señor de Sisitesia (0983-0985)
+v: 0932-0985
+1 BLOODTYPE AB
+1 HEIGHT 1.72m
+1 WEIGHT 65.0kg
+1 HAIRCOLOR Castaño
+
+0 @4@ INDI
+1 NAME Berenguela/Borguto
+1 SEX f
+1 BIRT
+2 DATE 0937
+1 DEAT
+2 DATE 0999
+1 PERSONALITY Cascarrabias
+Loca
+Religiosa
+1 FISICO Miope
+Desagradable
+Melenuda
+1 TITLES Virreina de Greglasatria (0996-0999)
+Autocratriz de Locrania (0983-0999)
+Marquesa de Suemana (0994-0999)
+Vizcondesa de Irmaquia (0985-0999)
+v: 0937-0999
+1 BLOODTYPE B
+1 HEIGHT 2.08m
+1 WEIGHT 90.0kg
+1 HAIRCOLOR Oscuro
+
+0 @5@ INDI
+1 NAME Auria/Borguto
+1 SEX f
+1 BIRT
+2 DATE 0939
+1 DEAT
+2 DATE 1005
+1 PERSONALITY Idealista
+Loca
+Cruel
+1 FISICO Jorobada
+Desagradable
+Curtida
+1 TITLES Duquesa de Voinaria (1002-1005)
+Vizcondesa de Irmaquia (0999-1005)
+Señora de Sisitesia (0985-1005)
+Fijodalga de Zelana (0994-1005)
+v: 0939-1005
+1 BLOODTYPE B
+1 HEIGHT 1.82m
+1 WEIGHT 69.5kg
+1 HAIRCOLOR Castaño
+
+0 @6@ INDI
+1 NAME Josefina/Borguto
+1 SEX f
+1 BIRT
+2 DATE 0942
+1 DEAT
+2 DATE 0995
+1 PERSONALITY Paciente
+Loca
+cosa
+1 FISICO Miope
+Inexpresiva
+Apuesta
+1 TITLES Archiduquesa de Alraña (0988-0995)
+Marquesa de Eslogria (0972-0995)
+v: 0942-0995
+1 BLOODTYPE AB
+1 HEIGHT 1.59m
+1 WEIGHT 80.0kg
+1 HAIRCOLOR Castaño
+
+0 @7@ INDI
+1 NAME Ana/Borguto
+1 SEX f
+1 BIRT
+2 DATE 0943
+1 DEAT
+2 DATE 0977
+1 PERSONALITY Idealista
+Obsesiva
+Amigable
+1 FISICO Miope
+Corpulenta
+Cenicienta
+1 TITLES 
+v: 0943-0977
+1 BLOODTYPE B
+1 HEIGHT 1.91m
+1 WEIGHT 83.5kg
+1 HAIRCOLOR Pardo
+
+0 @8@ INDI
+1 NAME Adalberto/Narans
+1 SEX m
+1 BIRT
+2 DATE 0918
+1 DEAT
+2 DATE 0983
+1 PERSONALITY Valiente
+Revolucionario
+Adaptable
+1 FISICO Babeante
+Moreno
+Cuellicorto
+1 TITLES Autócrator de Locrania (0951-0983)
+Conde de Ilesia (0951-0983)
+Señor de Sisitesia (0951-0983)
+v: 0918-0983
+1 BLOODTYPE AB
+1 HEIGHT 1.59m
+1 WEIGHT 62.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @9@ INDI
+1 NAME Auria/Esvingesa
+1 SEX f
+1 BIRT
+2 DATE 0930
+1 DEAT
+2 DATE 0994
+1 PERSONALITY Honorable
+Inmoral
+de
+1 FISICO Desagradable
+Radiante
+Cenicienta
+1 TITLES Marquesa de Monruegal (0950-0994)
+Marquesa de Suemana (0954-0994)
+Fijodalga de Zelana (0948-0994)
+v: 0930-0994
+1 BLOODTYPE A
+1 HEIGHT 1.39m
+1 WEIGHT 86.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @10@ INDI
+1 NAME Josefina/Narans
+1 SEX f
+1 BIRT
+2 DATE 0956
+1 DEAT
+2 DATE 1007
+1 PERSONALITY Loca
+Adaptable
+Vaga
+1 FISICO Miope
+Morena
+Elegante
+1 TITLES Virreina de Belleña (0996-1007)
+Virreina de Greglasatria (0999-1007)
+Condesa de Ilesia (0983-1007)
+Fijodalga de Zelana (1005-1007)
+v: 0956-1007
+1 BLOODTYPE A
+1 HEIGHT 1.97m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Oscuro
+
+0 @11@ INDI
+1 NAME Luisa/Borguto
+1 SEX f
+1 BIRT
+2 DATE 0957
+1 DEAT
+2 DATE 1020
+1 PERSONALITY Cascarrabias
+de
+Buena
+1 FISICO Jorobada
+Desagradable
+Atractiva
+1 TITLES Vizcondesa de Bulvona (1006-1020)
+v: 0957-1020
+1 BLOODTYPE B
+1 HEIGHT 1.53m
+1 WEIGHT 76.0kg
+1 HAIRCOLOR Castaño
+
+0 @12@ INDI
+1 NAME Adalberto/Esmans
+1 SEX m
+1 BIRT
+2 DATE 0935
+1 DEAT
+2 DATE 1002
+1 PERSONALITY Bueno
+Lujurioso
+Tramposo
+1 FISICO Robusto
+Sensual
+Bello
+1 TITLES Duque de Voinaria (0957-1002)
+Barón de Eslurilia (0956-1002)
+Barón de Zetalandia (0951-1002)
+v: 0935-1002
+1 BLOODTYPE AB
+1 HEIGHT 1.69m
+1 WEIGHT 67.0kg
+1 HAIRCOLOR Oscuro
+
+0 @13@ INDI
+1 NAME Chindasvinto/Narans
+1 SEX m
+1 BIRT
+2 DATE 0925
+1 DEAT
+2 DATE 0972
+1 PERSONALITY Atento
+Paciente
+Malhumorado
+1 FISICO Hermoso
+Pálido
+Dientes deformes
+1 TITLES Marqués de Eslogria (0944-0972)
+Conde de Yudinia (0944-0972)
+Hidalgo de Ausdequia (0954-0972)
+v: 0925-0972
+1 BLOODTYPE B
+1 HEIGHT 1.56m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @14@ INDI
+1 NAME Chindasvinto/Narans
+1 SEX m
+1 BIRT
+2 DATE 0933
+1 DEAT
+2 DATE 1003
+1 PERSONALITY Conservador
+Vividor
+Activo
+1 FISICO Zurdo
+Aguileño
+Corpulento
+1 TITLES Archiduque de Estosia (0946-1003)
+v: 0933-1003
+1 BLOODTYPE AB
+1 HEIGHT 1.66m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Oscuro
+
+0 @15@ INDI
+1 NAME Adalberto/Esmans
+1 SEX m
+1 BIRT
+2 DATE 0966
+1 DEAT
+2 DATE 1030
+1 PERSONALITY Cruel
+Lujurioso
+Imprudente
+1 FISICO Desagradable
+Bello
+Atractivo
+1 TITLES Duque de Voinaria (1005-1030)
+Marqués de Insila (1023-1030)
+Marqués de Monruegal (1029-1030)
+Barón de Eslurilia (1002-1030)
+Hidalgo de Ausdequia (0999-1030)
+v: 0966-1030
+1 BLOODTYPE AB
+1 HEIGHT 1.7m
+1 WEIGHT 63.5kg
+1 HAIRCOLOR Negro
+
+0 @16@ INDI
+1 NAME Ana/Narans
+1 SEX f
+1 BIRT
+2 DATE 0967
+1 DEAT
+2 DATE 1022
+1 PERSONALITY Loca
+Revolucionaria
+Liberal
+1 FISICO Melenuda
+Babeante
+Pálida
+1 TITLES Virreina de Greglasatria (1007-1022)
+Marquesa de Suemana (0999-1022)
+v: 0967-1022
+1 BLOODTYPE AB
+1 HEIGHT 1.65m
+1 WEIGHT 77.0kg
+1 HAIRCOLOR Pardo
+
+0 @17@ INDI
+1 NAME Auria/Narans
+1 SEX f
+1 BIRT
+2 DATE 0967
+1 DEAT
+2 DATE 1034
+1 PERSONALITY Paciente
+Atenta
+Avariciosa
+1 FISICO Miope
+deformes
+Bella
+1 TITLES Archiduquesa de Alraña (0995-1034)
+Archiduquesa de Nometria (0988-1034)
+Condesa de Yudinia (0972-1034)
+Vizcondesa de Bulledarrulandia (1029-1034)
+Baronesa de Turgica (1009-1034)
+v: 0967-1034
+1 BLOODTYPE B
+1 HEIGHT 1.63m
+1 WEIGHT 68.5kg
+1 HAIRCOLOR Pardo
+
+0 @18@ INDI
+1 NAME Auria/Narans
+1 SEX f
+1 BIRT
+2 DATE 0968
+1 DEAT
+2 DATE 1043
+1 PERSONALITY Amigable
+Activa
+Persuasiva
+1 FISICO Miope
+Aguileña
+Desagradable
+1 TITLES Archiduquesa de Estosia (1003-1043)
+Autocratriz de Sivasia (1035-1043)
+Señora de Sisitesia (1029-1043)
+v: 0968-1043
+1 BLOODTYPE B
+1 HEIGHT 1.8m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Castaño
+
+0 @19@ INDI
+1 NAME ADALBERTO II/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 0973
+1 DEAT
+2 DATE 1029
+1 PERSONALITY Idealista
+Honorable
+Adaptable
+1 FISICO Miope
+Radiante
+Lagrimoso
+1 TITLES Monarca de Hunmania (0985-1029)
+Autócrator de Locrania (0999-1029)
+Autócrator de Pomagal (0988-1029)
+Marqués de Eslogria (0995-1029)
+v: 0973-1029
+1 BLOODTYPE 0
+1 HEIGHT 1.83m
+1 WEIGHT 81.5kg
+1 HAIRCOLOR Castaño
+
+0 @20@ INDI
+1 NAME Mario/(criado)
+1 SEX m
+1 BIRT
+2 DATE 0944
+1 DEAT
+2 DATE 0982
+1 PERSONALITY Oveja negra
+Hablador
+Gracioso
+1 FISICO Sucio
+Narigón
+Delgado
+1 TITLES 
+v: 0944-0982
+1 BLOODTYPE B
+1 HEIGHT 1.68m
+1 WEIGHT 71.0kg
+1 HAIRCOLOR Negro
+
+0 @21@ INDI
+1 NAME Arnulfo/Esmans
+1 SEX m
+1 BIRT
+2 DATE 0973
+1 DEAT
+2 DATE 1020
+1 PERSONALITY Idealista
+Oveja negra
+Gorrón
+1 FISICO Curtido
+Delgado
+Miope
+1 TITLES 
+v: 0973-1020
+1 BLOODTYPE B
+1 HEIGHT 1.63m
+1 WEIGHT 80.0kg
+1 HAIRCOLOR Oscuro
+
+0 @22@ INDI
+1 NAME Amadeo/Borguto
+1 SEX m
+1 BIRT
+2 DATE 0942
+1 DEAT
+2 DATE 0988
+1 PERSONALITY Abstemio
+Perseverante
+Cascarrabias
+1 FISICO Cojo
+Ceniciento
+Sucio
+1 TITLES Archiduque de Alraña (0964-0988)
+Archiduque de Nometria (0972-0988)
+Autócrator de Pomagal (0961-0988)
+v: 0942-0988
+1 BLOODTYPE B
+1 HEIGHT 1.71m
+1 WEIGHT 63.5kg
+1 HAIRCOLOR Pardo
+
+0 @23@ INDI
+1 NAME Amadeo/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 0947
+1 DEAT
+2 DATE 1006
+1 PERSONALITY Religioso
+Comprensivo
+Influenciable
+1 FISICO Femenino
+Desagradable
+Moreno
+1 TITLES Vizconde de Bulvona (0974-1006)
+v: 0947-1006
+1 BLOODTYPE B
+1 HEIGHT 1.47m
+1 WEIGHT 65.0kg
+1 HAIRCOLOR Pardo
+
+0 @24@ INDI
+1 NAME Martín/Barnet
+1 SEX m
+1 BIRT
+2 DATE 0951
+1 DEAT
+2 DATE 0996
+1 PERSONALITY Distante
+Descuidado
+Goloso
+1 FISICO Femenino
+Maloliente
+Ceniciento
+1 TITLES Virrey de Belleña (0981-0996)
+Virrey de Gregisia (0973-0996)
+Virrey de Greglasatria (0980-0996)
+v: 0951-0996
+1 BLOODTYPE AB
+1 HEIGHT 1.74m
+1 WEIGHT 69.5kg
+1 HAIRCOLOR Oscuro
+
+0 @25@ INDI
+1 NAME Arturo/(porquerizo)
+1 SEX m
+1 BIRT
+2 DATE 0965
+1 DEAT
+2 DATE 1032
+1 PERSONALITY Extraño
+Patriota
+Inteligente
+1 FISICO Ceniciento
+Hermoso
+Cara redonda
+1 TITLES 
+v: 0965-1032
+1 BLOODTYPE B
+1 HEIGHT 1.93m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Negro
+
+0 @26@ INDI
+1 NAME Flora/Porquerizo
+1 SEX f
+1 BIRT
+2 DATE 0991
+1 DEAT
+2 DATE 1041
+1 PERSONALITY Paciente
+Extraña
+Traicionera
+1 FISICO Miope
+Hermosa
+Biliosa
+1 TITLES 
+v: 0991-1041
+1 BLOODTYPE B
+1 HEIGHT 1.97m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Castaño
+
+0 @27@ INDI
+1 NAME Adalberto/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 0992
+1 DEAT
+2 DATE 1046
+1 PERSONALITY Digno de confianza
+Comprensivo
+Necio
+1 FISICO Atractivo
+Desagradable
+Bizco
+1 TITLES Conde de Ilesia (1029-1046)
+Vizconde de Bulvona (1020-1046)
+v: 0992-1046
+1 BLOODTYPE B
+1 HEIGHT 1.67m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Oscuro
+
+0 @28@ INDI
+1 NAME Amadeo/Trasdergos
+1 SEX m
+1 BIRT
+2 DATE 0962
+1 DEAT
+2 DATE 1035
+1 PERSONALITY Hogareño
+Oveja negra
+Guarro
+1 FISICO Apuesto
+Entrecano
+Rollizo
+1 TITLES Autócrator de Sivasia (0984-1035)
+Marqués de Eslenia (0991-1035)
+v: 0962-1035
+1 BLOODTYPE AB
+1 HEIGHT 1.48m
+1 WEIGHT 58.5kg
+1 HAIRCOLOR Pardo
+
+0 @29@ INDI
+1 NAME Auria/Tutaca
+1 SEX f
+1 BIRT
+2 DATE 0994
+1 DEAT
+2 DATE 1005
+1 PERSONALITY de
+Influenciable
+Sociable
+1 FISICO Desagradable
+Masculina
+Pecosa
+1 TITLES 
+v: 0994-1005
+1 BLOODTYPE B
+1 HEIGHT 1.55m
+1 WEIGHT 78.5kg
+1 HAIRCOLOR Pardo
+
+0 @30@ INDI
+1 NAME Teodorica/Borguto
+1 SEX f
+1 BIRT
+2 DATE 0965
+1 DEAT
+2 DATE 1023
+1 PERSONALITY Sabia
+Abierta
+Inculta
+1 FISICO Elegante
+Narigona
+Grasa
+1 TITLES Marquesa de Insila (0979-1023)
+Vizcondesa de Sicrasia (0981-1023)
+v: 0965-1023
+1 BLOODTYPE 0
+1 HEIGHT 1.94m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @31@ INDI
+1 NAME Josefina/Barnet
+1 SEX f
+1 BIRT
+2 DATE 0996
+1 DEAT
+2 DATE 1038
+1 PERSONALITY Loca
+Golosa
+Sincera
+1 FISICO Morena
+Masculina
+Floja
+1 TITLES Virreina de Belleña (1007-1038)
+Virreina de Gregisia (0996-1038)
+Virreina de Greglasatria (1022-1038)
+Baronesa de Yutosia (0999-1038)
+v: 0996-1038
+1 BLOODTYPE B
+1 HEIGHT 2.09m
+1 WEIGHT 86.0kg
+1 HAIRCOLOR Negro
+
+0 @32@ INDI
+1 NAME Eduarda/Esmans
+1 SEX f
+1 BIRT
+2 DATE 0973
+1 DEAT
+2 DATE 1043
+1 PERSONALITY Campechana
+Gorrona
+Cruel
+1 FISICO Sonriente
+Radiante
+Apuesta
+1 TITLES Vizcondesa de Lolodalia (0996-1043)
+v: 0973-1043
+1 BLOODTYPE B
+1 HEIGHT 1.65m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Negro
+
+0 @33@ INDI
+1 NAME Adalberto/Esmans
+1 SEX m
+1 BIRT
+2 DATE 0999
+1 DEAT
+2 DATE 1062
+1 PERSONALITY Lujurioso
+Inculto
+Enfermizo
+1 FISICO Bello
+Narigón
+Granoso
+1 TITLES Duque de Voinaria (1030-1062)
+Marqués de Suemana (1029-1062)
+Vizconde de Irmaquia (1005-1062)
+Vizconde de Lolodalia (1043-1062)
+v: 0999-1062
+1 BLOODTYPE A
+1 HEIGHT 1.83m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Pelirrojo
+
+0 @34@ INDI
+1 NAME Ataulfo Terencio/Esmans
+1 SEX m
+1 BIRT
+2 DATE 0961
+1 DEAT
+2 DATE 1009
+1 PERSONALITY Secretivo
+Antipático
+Dejado
+1 FISICO Cetrino
+Babeante
+Robusto
+1 TITLES Barón de Turgica (0996-1009)
+v: 0961-1009
+1 BLOODTYPE A
+1 HEIGHT 1.74m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Castaño
+
+0 @35@ INDI
+1 NAME María/(monja)
+1 SEX f
+1 BIRT
+2 DATE 0980
+1 DEAT
+2 DATE 1032
+1 PERSONALITY Saludable
+Sociable
+Malhumorada
+1 FISICO Pulcra
+Grasa
+Cuellicorta
+1 TITLES 
+v: 0980-1032
+1 BLOODTYPE A
+1 HEIGHT 1.99m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Pardo
+
+0 @36@ INDI
+1 NAME Rogelia/Borguto
+1 SEX f
+1 BIRT
+2 DATE 1001
+1 DEAT
+2 DATE 1058
+1 PERSONALITY Honorable
+Sociable
+Tímida
+1 FISICO Miope
+Cuellicorta
+Pálida
+1 TITLES 
+v: 1001-1058
+1 BLOODTYPE A
+1 HEIGHT 1.59m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @37@ INDI
+1 NAME Constancia/Samalsor
+1 SEX f
+1 BIRT
+2 DATE 0983
+1 DEAT
+2 DATE 1047
+1 PERSONALITY Religiosa
+Perseverante
+Tranquila
+1 FISICO Orejona
+Narigona
+Musculosa
+1 TITLES Marquesa de Frantumagria (0990-1047)
+v: 0983-1047
+1 BLOODTYPE B
+1 HEIGHT 1.74m
+1 WEIGHT 61.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @38@ INDI
+1 NAME Eduarda/Borguto
+1 SEX f
+1 BIRT
+2 DATE 1005
+1 DEAT
+2 DATE 1070
+1 PERSONALITY Idealista
+Religiosa
+Piadosa
+1 FISICO Radiante
+Musculosa
+Apuesta
+1 TITLES Virreina de Hersinia (1068-1070)
+Autocratriz de Locrania (1039-1070)
+Autocratriz de Pomagal (1029-1070)
+Vizcondesa de Lolodalia (1062-1070)
+v: 1005-1070
+1 BLOODTYPE 0
+1 HEIGHT 2.11m
+1 WEIGHT 79.0kg
+1 HAIRCOLOR Pardo
+
+0 @39@ INDI
+1 NAME Martín/Esmans
+1 SEX m
+1 BIRT
+2 DATE 1005
+1 DEAT
+2 DATE 1025
+1 PERSONALITY Idealista
+Cruel
+Terco
+1 FISICO Miope
+Apuesto
+Pulcro
+1 TITLES 
+v: 1005-1025
+1 BLOODTYPE B
+1 HEIGHT 1.76m
+1 WEIGHT 65.5kg
+1 HAIRCOLOR Negro
+
+0 @40@ INDI
+1 NAME Josefina/Esmans
+1 SEX f
+1 BIRT
+2 DATE 1006
+1 DEAT
+2 DATE 1072
+1 PERSONALITY Avariciosa
+Dejada
+Amigable
+1 FISICO deformes
+Babeante
+Radiante
+1 TITLES Archiduquesa de Alraña (1034-1072)
+Vizcondesa de Diglacia (1046-1072)
+Fijodalga de Guatigigria (1068-1072)
+v: 1006-1072
+1 BLOODTYPE AB
+1 HEIGHT 1.92m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Pardo
+
+0 @41@ INDI
+1 NAME Chindasvinto/Trasdergos
+1 SEX m
+1 BIRT
+2 DATE 1007
+1 DEAT
+2 DATE 1062
+1 PERSONALITY Amigable
+Oveja negra
+Poca cosa
+1 FISICO Miope
+Apuesto
+Orejón
+1 TITLES Archiduque de Estosia (1043-1062)
+Autócrator de Sivasia (1047-1062)
+Marqués de Eslenia (1035-1062)
+Hidalgo de Gerrecia (1059-1062)
+v: 1007-1062
+1 BLOODTYPE B
+1 HEIGHT 1.54m
+1 WEIGHT 72.5kg
+1 HAIRCOLOR Negro
+
+0 @42@ INDI
+1 NAME ADALBERTO III/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1012
+1 DEAT
+2 DATE 1068
+1 PERSONALITY Adaptable
+Tranquilo
+Amigable
+1 FISICO Miope
+Narigón
+Pulcro
+1 TITLES Monarca de Hunmania (1029-1068)
+Virrey de Gregisia (1038-1068)
+Virrey de Greglasatria (1039-1068)
+Virrey de Hersinia (1065-1068)
+v: 1012-1068
+1 BLOODTYPE 0
+1 HEIGHT 1.71m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @43@ INDI
+1 NAME Chindasvinto/Borguto
+1 SEX m
+1 BIRT
+2 DATE 1013
+1 DEAT
+2 DATE 1039
+1 PERSONALITY Idealista
+Perseverante
+Persuasivo
+1 FISICO Lagrimoso
+Narigón
+Granoso
+1 TITLES Virrey de Greglasatria (1038-1039)
+Autócrator de Locrania (1029-1039)
+Marqués de Monruegal (1030-1039)
+Vizconde de Bulledarrulandia (1034-1039)
+Señor de Finrrugaña (1038-1039)
+v: 1013-1039
+1 BLOODTYPE B
+1 HEIGHT 1.66m
+1 WEIGHT 90.5kg
+1 HAIRCOLOR Pardo
+
+0 @44@ INDI
+1 NAME Severo/Lanboter
+1 SEX m
+1 BIRT
+2 DATE 0970
+1 DEAT
+2 DATE 1038
+1 PERSONALITY Insensible
+Conservador
+Bueno
+1 FISICO Delgado
+Corpulento
+Manco
+1 TITLES Autócrator de Inania (1003-1038)
+Vizconde de Oldicia (0993-1038)
+Señor de Finrrugaña (1008-1038)
+v: 0970-1038
+1 BLOODTYPE B
+1 HEIGHT 1.88m
+1 WEIGHT 81.5kg
+1 HAIRCOLOR Negro
+
+0 @45@ INDI
+1 NAME Miguel/Borguto
+1 SEX m
+1 BIRT
+2 DATE 1023
+1 DEAT
+2 DATE 1089
+1 PERSONALITY Honorable
+Religioso
+Cuidadoso
+1 FISICO Radiante
+Orejón
+Desaliñado
+1 TITLES Archiduque de Estosia (1068-1089)
+Marqués de Eslogria (1029-1089)
+Marqués de Monruegal (1039-1089)
+Vizconde de Sicrasia (1062-1089)
+v: 1023-1089
+1 BLOODTYPE 0
+1 HEIGHT 2.26m
+1 WEIGHT 78.0kg
+1 HAIRCOLOR Negro
+
+0 @46@ INDI
+1 NAME Severo/Lanboter
+1 SEX m
+1 BIRT
+2 DATE 1025
+1 DEAT
+2 DATE 1094
+1 PERSONALITY Sincero
+Bueno
+Imprudente
+1 FISICO Moreno
+Manco
+Melenudo
+1 TITLES Virrey de Belleña (1038-1094)
+Duque de Pamalia (1076-1094)
+Autócrator de Inania (1038-1094)
+v: 1025-1094
+1 BLOODTYPE B
+1 HEIGHT 1.93m
+1 WEIGHT 86.0kg
+1 HAIRCOLOR Castaño
+
+0 @47@ INDI
+1 NAME Adalberto/Bocasza
+1 SEX m
+1 BIRT
+2 DATE 0989
+1 DEAT
+2 DATE 1046
+1 PERSONALITY Dejado
+Descuidado
+Caballeroso
+1 FISICO Radiante
+Calvo
+Hermoso
+1 TITLES Vizconde de Diglacia (1017-1046)
+Barón de Rulasia (1021-1046)
+Gobernador de Pormenia (1023-1046)
+v: 0989-1046
+1 BLOODTYPE A
+1 HEIGHT 1.68m
+1 WEIGHT 58.0kg
+1 HAIRCOLOR Negro
+
+0 @48@ INDI
+1 NAME Marta Octavia/Narans
+1 SEX f
+1 BIRT
+2 DATE 1009
+1 DEAT
+2 DATE 1059
+1 PERSONALITY Idealista
+Obsesiva
+Caótica
+1 FISICO Biliosa
+Patizamba
+redonda
+1 TITLES Fijodalga de Gerrecia (1015-1059)
+Fijodalga de Guatigigria (1012-1059)
+v: 1009-1059
+1 BLOODTYPE AB
+1 HEIGHT 1.67m
+1 WEIGHT 76.0kg
+1 HAIRCOLOR Rubio
+
+0 @49@ INDI
+1 NAME Mateo/Vamatria
+1 SEX m
+1 BIRT
+2 DATE 0999
+1 DEAT
+2 DATE 1071
+1 PERSONALITY Rígido
+Caritativo
+Hogareño
+1 FISICO Babeante
+Sucio
+Flojo
+1 TITLES Barón de Ruruemacia (1015-1071)
+v: 0999-1071
+1 BLOODTYPE 0
+1 HEIGHT 1.49m
+1 WEIGHT 65.5kg
+1 HAIRCOLOR Oscuro
+
+0 @50@ INDI
+1 NAME Amadeo/Trasdergos
+1 SEX m
+1 BIRT
+2 DATE 1031
+1 DEAT
+2 DATE 1047
+1 PERSONALITY Amigable
+Obsesivo
+Vicioso
+1 FISICO Apuesto
+Cara redonda
+Atlético
+1 TITLES Autócrator de Sivasia (1043-1047)
+v: 1031-1047
+1 BLOODTYPE AB
+1 HEIGHT 1.73m
+1 WEIGHT 67.0kg
+1 HAIRCOLOR Negro
+
+0 @51@ INDI
+1 NAME Josefa/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1012
+1 DEAT
+2 DATE 1087
+1 PERSONALITY Cuidadosa
+Fiel
+Malvada
+1 FISICO Coja
+Musculosa
+Floja
+1 TITLES Vizcondesa de Molgonia (1030-1087)
+Baronesa de Bielesia (1029-1087)
+v: 1012-1087
+1 BLOODTYPE AB
+1 HEIGHT 1.39m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Castaño
+
+0 @52@ INDI
+1 NAME Ana/Roleni
+1 SEX f
+1 BIRT
+2 DATE 0998
+1 DEAT
+2 DATE 1075
+1 PERSONALITY Dejada
+Extrovertida
+Erudita
+1 FISICO Atlética
+Tetona
+Granosa
+1 TITLES Señora de Pazegal (1031-1075)
+Fijodalga de Siloburgo (1025-1075)
+v: 0998-1075
+1 BLOODTYPE A
+1 HEIGHT 1.38m
+1 WEIGHT 71.5kg
+1 HAIRCOLOR Pardo
+
+0 @53@ INDI
+1 NAME Ataulfo Terencio/Bocasza
+1 SEX m
+1 BIRT
+2 DATE 1033
+1 DEAT
+2 DATE 1082
+1 PERSONALITY Avaricioso
+Caballeroso
+Errático
+1 FISICO Radiante
+Calvo
+Cetrino
+1 TITLES Archiduque de Alraña (1072-1082)
+Archiduque de Nometria (1034-1082)
+Barón de Rulasia (1046-1082)
+v: 1033-1082
+1 BLOODTYPE A
+1 HEIGHT 1.74m
+1 WEIGHT 63.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @54@ INDI
+1 NAME Ana/Tutaca
+1 SEX f
+1 BIRT
+2 DATE 1035
+1 DEAT
+2 DATE 1097
+1 PERSONALITY de
+Cuidadosa
+Imprudente
+1 FISICO Desagradable
+Coja
+Pecosa
+1 TITLES Condesa de Ilesia (1060-1097)
+Vizcondesa de Bulvona (1046-1097)
+Vizcondesa de Molgonia (1087-1097)
+Baronesa de Polonia (1082-1097)
+Señora de Sisitesia (1068-1097)
+v: 1035-1097
+1 BLOODTYPE AB
+1 HEIGHT 1.71m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Castaño
+
+0 @55@ INDI
+1 NAME Auria/Vamatria
+1 SEX f
+1 BIRT
+2 DATE 1035
+1 DEAT
+2 DATE 1087
+1 PERSONALITY Religiosa
+Rígida
+Saludable
+1 FISICO Musculosa
+Babeante
+Radiante
+1 TITLES Virreina de Hersinia (1070-1087)
+Marquesa de Frantumagria (1068-1087)
+Vizcondesa de Bulledarrulandia (1039-1087)
+Baronesa de Eslenania (1068-1087)
+Baronesa de Ruruemacia (1071-1087)
+v: 1035-1087
+1 BLOODTYPE 0
+1 HEIGHT 1.75m
+1 WEIGHT 76.0kg
+1 HAIRCOLOR Rubio
+
+0 @56@ INDI
+1 NAME Blanca/Vamatria
+1 SEX f
+1 BIRT
+2 DATE 1036
+1 DEAT
+2 DATE 1096
+1 PERSONALITY Religiosa
+Hogareña
+Imprudente
+1 FISICO Musculosa
+Floja
+Sensual
+1 TITLES Virreina de Hersinia (1087-1096)
+Virreina de Isiquia (1094-1096)
+Autocratriz de Pomagal (1070-1096)
+Marquesa de Insila (1068-1096)
+v: 1036-1096
+1 BLOODTYPE 0
+1 HEIGHT 1.78m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Negro
+
+0 @57@ INDI
+1 NAME Luisa/Lanboter
+1 SEX f
+1 BIRT
+2 DATE 1014
+1 DEAT
+2 DATE 1065
+1 PERSONALITY Limpia
+Depresiva
+negra
+1 FISICO Cetrina
+Desagradable
+Floja
+1 TITLES Virreina de Hersinia (1033-1065)
+Duquesa de Finlolanda (1034-1065)
+v: 1014-1065
+1 BLOODTYPE B
+1 HEIGHT 1.61m
+1 WEIGHT 73.5kg
+1 HAIRCOLOR Pardo
+
+0 @58@ INDI
+1 NAME Amadeo/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 1039
+1 DEAT
+2 DATE 1060
+1 PERSONALITY Comprensivo
+Cuidadoso
+Abstemio
+1 FISICO Desagradable
+Cojo
+Atlético
+1 TITLES Conde de Ilesia (1046-1060)
+v: 1039-1060
+1 BLOODTYPE AB
+1 HEIGHT 1.66m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Pardo
+
+0 @59@ INDI
+1 NAME Josefa/Vamatria
+1 SEX f
+1 BIRT
+2 DATE 1039
+1 DEAT
+2 DATE 1094
+1 PERSONALITY Piadosa
+Hogareña
+Buena
+1 FISICO Apuesta
+Floja
+Morena
+1 TITLES Virreina de Guadimania (1091-1094)
+Virreina de Isiquia (1091-1094)
+Marquesa de Frantumagria (1087-1094)
+Condesa de Yudinia (1068-1094)
+Baronesa de Turgica (1070-1094)
+v: 1039-1094
+1 BLOODTYPE 0
+1 HEIGHT 1.93m
+1 WEIGHT 61.5kg
+1 HAIRCOLOR Negro
+
+0 @60@ INDI
+1 NAME Eduarda/Vamatria
+1 SEX f
+1 BIRT
+2 DATE 1043
+1 DEAT
+2 DATE 1095
+1 PERSONALITY Idealista
+Rígida
+Introvertida
+1 FISICO Radiante
+Floja
+Cetrina
+1 TITLES Marquesa de Frantumagria (1094-1095)
+Baronesa de Esdenia (1062-1095)
+Señora de Guatevoña (1091-1095)
+Gobernadora de Pormenia (1068-1095)
+Fijodalga de Zelana (1070-1095)
+v: 1043-1095
+1 BLOODTYPE 0
+1 HEIGHT 1.78m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Rubio
+
+0 @61@ INDI
+1 NAME CHINDASVINTO II/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1043
+1 DEAT
+2 DATE 1122
+1 PERSONALITY Tranquilo
+Limpio
+Independiente
+1 FISICO Narigón
+Cetrino
+Sucio
+1 TITLES Monarca de Hunmania (1068-1122)
+Virrey de Belleña (1121-1122)
+Virrey de Hersinia (1096-1122)
+Virrey de Isiquia (1106-1122)
+v: 1043-1122
+1 BLOODTYPE B
+1 HEIGHT 1.78m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Castaño
+
+0 @62@ INDI
+1 NAME Adalberto/Borguto
+1 SEX m
+1 BIRT
+2 DATE 1046
+1 DEAT
+2 DATE 1106
+1 PERSONALITY Adaptable
+Oveja negra
+Caballeroso
+1 FISICO Miope
+Desagradable
+Canijo
+1 TITLES Virrey de Gregisia (1068-1106)
+Virrey de Isiquia (1096-1106)
+Duque de Sivonia (1072-1106)
+Autócrator de Inania (1094-1106)
+v: 1046-1106
+1 BLOODTYPE B
+1 HEIGHT 1.88m
+1 WEIGHT 64.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @63@ INDI
+1 NAME Felicia/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1023
+1 DEAT
+2 DATE 1085
+1 PERSONALITY Descuidada
+Pesada
+Malhumorada
+1 FISICO Cenicienta
+Sensual
+Fea
+1 TITLES Gobernadora de Esdidilanda (1046-1085)
+v: 1023-1085
+1 BLOODTYPE 0
+1 HEIGHT 1.68m
+1 WEIGHT 73.5kg
+1 HAIRCOLOR Oscuro
+
+0 @64@ INDI
+1 NAME Luisa/Borguto
+1 SEX f
+1 BIRT
+2 DATE 1051
+1 DEAT
+2 DATE 1123
+1 PERSONALITY Amigable
+Depresiva
+Engreída
+1 FISICO Narigona
+Floja
+Bella
+1 TITLES Virreina de Belleña (1122-1123)
+Virreina de Greglasatria (1068-1123)
+Archiduquesa de Estosia (1116-1123)
+Duquesa de Sivonia (1106-1123)
+v: 1051-1123
+1 BLOODTYPE B
+1 HEIGHT 1.41m
+1 WEIGHT 85.5kg
+1 HAIRCOLOR Oscuro
+
+0 @65@ INDI
+1 NAME Alejandra/Barnet
+1 SEX f
+1 BIRT
+2 DATE 1030
+1 DEAT
+2 DATE 1076
+1 PERSONALITY Imprudente
+Persuasiva
+Abierta
+1 FISICO Robusta
+Pecosa
+Cenicienta
+1 TITLES Duquesa de Pamalia (1050-1076)
+v: 1030-1076
+1 BLOODTYPE AB
+1 HEIGHT 1.97m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Pardo
+
+0 @66@ INDI
+1 NAME Dorotea/(campesina)
+1 SEX f
+1 BIRT
+2 DATE 1022
+1 DEAT
+2 DATE 1063
+1 PERSONALITY Envidiosa
+Guarra
+Marimacho
+1 FISICO Sucia
+Bizca
+Pulcra
+1 TITLES 
+v: 1022-1063
+1 BLOODTYPE B
+1 HEIGHT 1.65m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Oscuro
+
+0 @67@ INDI
+1 NAME Berta/de Hogaterra
+1 SEX f
+1 BIRT
+2 DATE 1054
+1 DEAT
+2 DATE 1115
+1 PERSONALITY Adaptable
+Guarra
+Antipática
+1 FISICO Miope
+Sucia
+Inexpresiva
+1 TITLES 
+v: 1054-1115
+1 BLOODTYPE B
+1 HEIGHT 1.97m
+1 WEIGHT 60.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @68@ INDI
+1 NAME Severo/Lanboter
+1 SEX m
+1 BIRT
+2 DATE 1054
+1 DEAT
+2 DATE 1121
+1 PERSONALITY Bueno
+Abierto
+Patriota
+1 FISICO Manco
+Pecoso
+Patizambo
+1 TITLES Virrey de Belleña (1094-1121)
+v: 1054-1121
+1 BLOODTYPE B
+1 HEIGHT 1.82m
+1 WEIGHT 77.5kg
+1 HAIRCOLOR Pardo
+
+0 @69@ INDI
+1 NAME Roberta/Bograte
+1 SEX f
+1 BIRT
+2 DATE 1029
+1 DEAT
+2 DATE 1094
+1 PERSONALITY Cobarde
+Atenta
+Honorable
+1 FISICO Ojerosa
+Floja
+Granosa
+1 TITLES Virreina de Lulena (1054-1094)
+Duquesa de Honamarca (1057-1094)
+Señora de Palalanda (1054-1094)
+v: 1029-1094
+1 BLOODTYPE A
+1 HEIGHT 1.56m
+1 WEIGHT 76.5kg
+1 HAIRCOLOR Castaño
+
+0 @70@ INDI
+1 NAME Adalberto/Vamatria
+1 SEX m
+1 BIRT
+2 DATE 1016
+1 DEAT
+2 DATE 1068
+1 PERSONALITY Tímido
+Limpio
+Taciturno
+1 FISICO Desaliñado
+Hermoso
+Manco
+1 TITLES Barón de Eslenania (1039-1068)
+Señor de Guatevoña (1052-1068)
+Gobernador de Sitania (1039-1068)
+v: 1016-1068
+1 BLOODTYPE AB
+1 HEIGHT 1.52m
+1 WEIGHT 56.0kg
+1 HAIRCOLOR Oscuro
+
+0 @71@ INDI
+1 NAME Auria/Borguto
+1 SEX f
+1 BIRT
+2 DATE 1059
+1 DEAT
+2 DATE 1116
+1 PERSONALITY Honorable
+Descuidada
+Malhumorada
+1 FISICO Desaliñada
+Fea
+Bella
+1 TITLES Virreina de Suelenia (1095-1116)
+Archiduquesa de Estosia (1089-1116)
+Duquesa de Voinaria (1068-1116)
+Marquesa de Monruegal (1106-1116)
+v: 1059-1116
+1 BLOODTYPE 0
+1 HEIGHT 1.97m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Pardo
+
+0 @72@ INDI
+1 NAME Miguel/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1031
+1 DEAT
+2 DATE 1062
+1 PERSONALITY Generoso
+Lujurioso
+Descuidado
+1 FISICO Corpulento
+Dientes deformes
+Cojo
+1 TITLES Barón de Esdenia (1036-1062)
+v: 1031-1062
+1 BLOODTYPE AB
+1 HEIGHT 1.7m
+1 WEIGHT 91.0kg
+1 HAIRCOLOR Negro
+
+0 @73@ INDI
+1 NAME Boris/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1025
+1 DEAT
+2 DATE 1091
+1 PERSONALITY Antipático
+Ateo
+Inteligente
+1 FISICO Canijo
+Cetrino
+Corpulento
+1 TITLES Virrey de Guadimania (1048-1091)
+Virrey de Isiquia (1052-1091)
+Marqués de Indanaquia (1048-1091)
+v: 1025-1091
+1 BLOODTYPE A
+1 HEIGHT 1.82m
+1 WEIGHT 72.0kg
+1 HAIRCOLOR Negro
+
+0 @74@ INDI
+1 NAME Luisa/Esvingesa
+1 SEX f
+1 BIRT
+2 DATE 1032
+1 DEAT
+2 DATE 1072
+1 PERSONALITY Libertina
+Atenta
+Saludable
+1 FISICO Morena
+Maloliente
+redonda
+1 TITLES Duquesa de Sigoquia (1054-1072)
+Duquesa de Sivonia (1056-1072)
+Duquesa de Yucanlovia (1062-1072)
+v: 1032-1072
+1 BLOODTYPE 0
+1 HEIGHT 1.98m
+1 WEIGHT 83.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @75@ INDI
+1 NAME Luisa/Bocasza
+1 SEX f
+1 BIRT
+2 DATE 1065
+1 DEAT
+2 DATE 1120
+1 PERSONALITY Avariciosa
+Honorable
+Liberal
+1 FISICO Cetrina
+Floja
+Pulcra
+1 TITLES Archiduquesa de Nometria (1082-1120)
+Duquesa de Honamarca (1094-1120)
+Baronesa de Retaterra (1102-1120)
+Fijodalga de Guatigigria (1072-1120)
+v: 1065-1120
+1 BLOODTYPE A
+1 HEIGHT 1.63m
+1 WEIGHT 72.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @76@ INDI
+1 NAME Eduardo/(noble)
+1 SEX m
+1 BIRT
+2 DATE 1029
+1 DEAT
+2 DATE 1070
+1 PERSONALITY Gracioso
+Cobarde
+Extraño
+1 FISICO Zurdo
+Orejón
+Inexpresivo
+1 TITLES 
+v: 1029-1070
+1 BLOODTYPE 0
+1 HEIGHT 1.68m
+1 WEIGHT 79.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @77@ INDI
+1 NAME Erica/Expósito
+1 SEX f
+1 BIRT
+2 DATE 1066
+1 DEAT
+2 DATE 1141
+1 PERSONALITY Hogareña
+Graciosa
+Inculta
+1 FISICO Sensual
+Inexpresiva
+Desaliñada
+1 TITLES 
+v: 1066-1141
+1 BLOODTYPE 0
+1 HEIGHT 1.79m
+1 WEIGHT 78.0kg
+1 HAIRCOLOR Oscuro
+
+0 @78@ INDI
+1 NAME Adalberto/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1066
+1 DEAT
+2 DATE 1091
+1 PERSONALITY Hogareño
+Antipático
+Cuidadoso
+1 FISICO Moreno
+Corpulento
+Barbudo
+1 TITLES Virrey de Isiquia (1091-1091)
+Vizconde de Oldicia (1068-1091)
+Barón de Ruruemacia (1087-1091)
+Señor de Guatevoña (1070-1091)
+v: 1066-1091
+1 BLOODTYPE A
+1 HEIGHT 2.02m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Rubio
+
+0 @79@ INDI
+1 NAME Claudio/Barnet
+1 SEX m
+1 BIRT
+2 DATE 1032
+1 DEAT
+2 DATE 1082
+1 PERSONALITY Cruel
+Paciente
+Campechano
+1 FISICO Hermoso
+Ceniciento
+Miope
+1 TITLES Barón de Polonia (1064-1082)
+v: 1032-1082
+1 BLOODTYPE A
+1 HEIGHT 1.64m
+1 WEIGHT 68.5kg
+1 HAIRCOLOR Negro
+
+0 @80@ INDI
+1 NAME Boris/Esmans
+1 SEX m
+1 BIRT
+2 DATE 1041
+1 DEAT
+2 DATE 1098
+1 PERSONALITY Necio
+Idealista
+Gorrón
+1 FISICO Musculoso
+Cara redonda
+Elegante
+1 TITLES Hidalgo de Esluzena (1052-1098)
+v: 1041-1098
+1 BLOODTYPE AB
+1 HEIGHT 1.73m
+1 WEIGHT 67.5kg
+1 HAIRCOLOR Oscuro
+
+0 @81@ INDI
+1 NAME Chindasvinto/Bocasza
+1 SEX m
+1 BIRT
+2 DATE 1070
+1 DEAT
+2 DATE 1137
+1 PERSONALITY Avaricioso
+Cobarde
+Caritativo
+1 FISICO Calvo
+Ojeroso
+Pulcro
+1 TITLES Virrey de Lulena (1094-1137)
+Archiduque de Alraña (1082-1137)
+Archiduque de Nometria (1120-1137)
+Autócrator de Sivasia (1122-1137)
+v: 1070-1137
+1 BLOODTYPE A
+1 HEIGHT 1.46m
+1 WEIGHT 79.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @82@ INDI
+1 NAME JOSEFINA I/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1070
+1 DEAT
+2 DATE 1143
+1 PERSONALITY Tranquila
+Atenta
+Inculta
+1 FISICO Narigona
+Morena
+Granosa
+1 TITLES Monarca de Hunmania (1122-1143)
+Virreina de Greglasatria (1123-1143)
+Archiduquesa de Alraña (1137-1143)
+Duquesa de Yucanlovia (1072-1143)
+v: 1070-1143
+1 BLOODTYPE B
+1 HEIGHT 1.7m
+1 WEIGHT 76.5kg
+1 HAIRCOLOR Negro
+
+0 @83@ INDI
+1 NAME Miguel/Esmans
+1 SEX m
+1 BIRT
+2 DATE 1073
+1 DEAT
+2 DATE 1122
+1 PERSONALITY Rígido
+Idealista
+Distante
+1 FISICO Flojo
+Elegante
+Musculoso
+1 TITLES Duque de Finlolanda (1122-1122)
+Autócrator de Pomagal (1096-1122)
+Marqués de Frantumagria (1095-1122)
+Conde de Yudinia (1094-1122)
+v: 1073-1122
+1 BLOODTYPE A
+1 HEIGHT 1.81m
+1 WEIGHT 71.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @84@ INDI
+1 NAME Roberta/Lanboter
+1 SEX f
+1 BIRT
+2 DATE 1043
+1 DEAT
+2 DATE 1111
+1 PERSONALITY Caótica
+Enfermiza
+Regia
+1 FISICO Desagradable
+Atractiva
+redonda
+1 TITLES Archiduquesa de Lidenia (1070-1111)
+Marquesa de Zegavilanda (1074-1111)
+Baronesa de Lumesimania (1063-1111)
+v: 1043-1111
+1 BLOODTYPE A
+1 HEIGHT 1.63m
+1 WEIGHT 62.0kg
+1 HAIRCOLOR Rubio
+
+0 @85@ INDI
+1 NAME Eduarda/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1077
+1 DEAT
+2 DATE 1148
+1 PERSONALITY Buena
+Antipática
+Amigable
+1 FISICO Apuesta
+Corpulenta
+Rolliza
+1 TITLES Virreina de Guadimania (1094-1148)
+Duquesa de Pamalia (1122-1148)
+Autocratriz de Alsalia (1123-1148)
+Autocratriz de Inania (1143-1148)
+v: 1077-1148
+1 BLOODTYPE 0
+1 HEIGHT 1.85m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Pardo
+
+0 @86@ INDI
+1 NAME Boris/Esmans
+1 SEX m
+1 BIRT
+2 DATE 1080
+1 DEAT
+2 DATE 1143
+1 PERSONALITY Rígido
+Necio
+Piadoso
+1 FISICO Cetrino
+Elegante
+Calvo
+1 TITLES Duque de Honamarca (1122-1143)
+Duque de Yucanlovia (1143-1143)
+Autócrator de Didadilia (1123-1143)
+Autócrator de Lululisquia (1133-1143)
+v: 1080-1143
+1 BLOODTYPE A
+1 HEIGHT 1.37m
+1 WEIGHT 68.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @87@ INDI
+1 NAME ADALBERTO IV/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1081
+1 DEAT
+2 DATE 1149
+1 PERSONALITY Oveja negra
+Regio
+Saludable
+1 FISICO Miope
+Cara redonda
+Ojos saltones
+1 TITLES Monarca de Hunmania (1143-1149)
+Virrey de Belleña (1123-1149)
+Virrey de Gregisia (1106-1149)
+Virrey de Hersinia (1122-1149)
+v: 1081-1149
+1 BLOODTYPE AB
+1 HEIGHT 1.75m
+1 WEIGHT 77.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @88@ INDI
+1 NAME Octavio/Vamatria
+1 SEX m
+1 BIRT
+2 DATE 1049
+1 DEAT
+2 DATE 1095
+1 PERSONALITY Adúltero
+Persuasivo
+Libertino
+1 FISICO Zurdo
+Jorobado
+Femenino
+1 TITLES Virrey de Suelenia (1087-1095)
+Conde de Potinia (1059-1095)
+v: 1049-1095
+1 BLOODTYPE B
+1 HEIGHT 1.71m
+1 WEIGHT 82.5kg
+1 HAIRCOLOR Rubio
+
+0 @89@ INDI
+1 NAME Nicolasa/Bograte
+1 SEX f
+1 BIRT
+2 DATE 1073
+1 DEAT
+2 DATE 1113
+1 PERSONALITY Perseverante
+Tranquila
+Viciosa
+1 FISICO Musculosa
+Calva
+Pulcra
+1 TITLES Marquesa de Uglaña (1083-1113)
+Señora de Ausmania (1087-1113)
+v: 1073-1113
+1 BLOODTYPE B
+1 HEIGHT 1.38m
+1 WEIGHT 78.5kg
+1 HAIRCOLOR Oscuro
+
+0 @90@ INDI
+1 NAME Luisa/Borguto
+1 SEX f
+1 BIRT
+2 DATE 1093
+1 DEAT
+2 DATE 1155
+1 PERSONALITY Independiente
+Perseverante
+Honesta
+1 FISICO Narigona
+Calva
+Desagradable
+1 TITLES Virreina de Belleña (1149-1155)
+Virreina de Greglasatria (1143-1155)
+Virreina de Isiquia (1122-1155)
+Duquesa de Sivonia (1123-1155)
+v: 1093-1155
+1 BLOODTYPE B
+1 HEIGHT 1.7m
+1 WEIGHT 64.5kg
+1 HAIRCOLOR Castaño
+
+0 @91@ INDI
+1 NAME Julia Catalina/Tutaca
+1 SEX f
+1 BIRT
+2 DATE 1081
+1 DEAT
+2 DATE 1136
+1 PERSONALITY Pervertida
+Ambiciosa
+Malhumorada
+1 FISICO redonda
+Escuálida
+Pulcra
+1 TITLES Archiduquesa de Estalolandia (1092-1136)
+Vizcondesa de Norrucia (1091-1136)
+Baronesa de Irgolanda (1090-1136)
+v: 1081-1136
+1 BLOODTYPE B
+1 HEIGHT 1.53m
+1 WEIGHT 64.0kg
+1 HAIRCOLOR Oscuro
+
+0 @92@ INDI
+1 NAME Octavio/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1073
+1 DEAT
+2 DATE 1102
+1 PERSONALITY Malhablado
+Amigable
+Fiel
+1 FISICO Pálido
+Entrecano
+Patizambo
+1 TITLES Barón de Retaterra (1090-1102)
+v: 1073-1102
+1 BLOODTYPE B
+1 HEIGHT 1.84m
+1 WEIGHT 58.5kg
+1 HAIRCOLOR Pardo
+
+0 @93@ INDI
+1 NAME Adalberto/Esmans
+1 SEX m
+1 BIRT
+2 DATE 1097
+1 DEAT
+2 DATE 1169
+1 PERSONALITY Idealista
+Pervertido
+Adúltero
+1 FISICO Elegante
+Pulcro
+Rollizo
+1 TITLES Virrey de Gregisia (1149-1169)
+Virrey de Guadimania (1148-1169)
+Virrey de Isiquia (1155-1169)
+Archiduque de Estalolandia (1136-1169)
+v: 1097-1169
+1 BLOODTYPE B
+1 HEIGHT 1.78m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Negro
+
+0 @94@ INDI
+1 NAME Eduarda/Esmans
+1 SEX f
+1 BIRT
+2 DATE 1100
+1 DEAT
+2 DATE 1135
+1 PERSONALITY Distante
+Ambiciosa
+Malhumorada
+1 FISICO Elegante
+Escuálida
+Apuesta
+1 TITLES Autocratriz de Locrania (1122-1135)
+Marquesa de Frantumagria (1122-1135)
+Vizcondesa de Molgonia (1123-1135)
+Señora de Palalanda (1122-1135)
+Fijodalga de Siloburgo (1106-1135)
+v: 1100-1135
+1 BLOODTYPE AB
+1 HEIGHT 1.54m
+1 WEIGHT 63.0kg
+1 HAIRCOLOR Pardo
+
+0 @95@ INDI
+1 NAME Eduarda/Narans
+1 SEX f
+1 BIRT
+2 DATE 1071
+1 DEAT
+2 DATE 1133
+1 PERSONALITY Taciturna
+Lujuriosa
+Tímida
+1 FISICO Hermosa
+Bizca
+Grasa
+1 TITLES Autocratriz de Lululisquia (1096-1133)
+Vizcondesa de Lolena (1101-1133)
+v: 1071-1133
+1 BLOODTYPE AB
+1 HEIGHT 1.87m
+1 WEIGHT 81.0kg
+1 HAIRCOLOR Negro
+
+0 @96@ INDI
+1 NAME Josefina/Esmans
+1 SEX f
+1 BIRT
+2 DATE 1106
+1 DEAT
+2 DATE 1138
+1 PERSONALITY Idealista
+Malhumorada
+Tramposa
+1 FISICO Musculosa
+Pulcra
+Patizamba
+1 TITLES Marquesa de Eslogria (1122-1138)
+Condesa de Yudinia (1122-1138)
+Vizcondesa de Molgonia (1135-1138)
+Baronesa de Irgolanda (1136-1138)
+v: 1106-1138
+1 BLOODTYPE 0
+1 HEIGHT 1.85m
+1 WEIGHT 66.0kg
+1 HAIRCOLOR Negro
+
+0 @97@ INDI
+1 NAME Boris/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 1075
+1 DEAT
+2 DATE 1123
+1 PERSONALITY Malvado
+Sabio
+Goloso
+1 FISICO Moreno
+Graso
+Maloliente
+1 TITLES Autócrator de Alsalia (1111-1123)
+Autócrator de Didadilia (1110-1123)
+Barón de Suerelanda (1110-1123)
+v: 1075-1123
+1 BLOODTYPE B
+1 HEIGHT 2.0m
+1 WEIGHT 84.0kg
+1 HAIRCOLOR Negro
+
+0 @98@ INDI
+1 NAME Josefa/Bograte
+1 SEX f
+1 BIRT
+2 DATE 1080
+1 DEAT
+2 DATE 1130
+1 PERSONALITY Ingenua
+Intimidante
+Activa
+1 FISICO Narigona
+Hermosa
+Pálida
+1 TITLES Señora de Lilolandia (1099-1130)
+v: 1080-1130
+1 BLOODTYPE AB
+1 HEIGHT 1.58m
+1 WEIGHT 71.5kg
+1 HAIRCOLOR Pardo
+
+0 @99@ INDI
+1 NAME Alberto/Trasdergos
+1 SEX m
+1 BIRT
+2 DATE 1090
+1 DEAT
+2 DATE 1140
+1 PERSONALITY Oveja negra
+Vago
+Guerrero
+1 FISICO Miope
+Canijo
+Hermoso
+1 TITLES Barón de Irlogria (1109-1140)
+v: 1090-1140
+1 BLOODTYPE 0
+1 HEIGHT 1.5m
+1 WEIGHT 53.0kg
+1 HAIRCOLOR Oscuro
+
+0 @100@ INDI
+1 NAME ANA I/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1121
+1 DEAT
+2 DATE 1189
+1 PERSONALITY Regia
+Intimidante
+Inculta
+1 FISICO redonda
+Pálida
+Esbelta
+1 TITLES Monarca de Hunmania (1149-1189)
+Virreina de Belleña (1155-1189)
+Virreina de Suelenia (1122-1189)
+Archiduquesa de Alraña (1143-1189)
+v: 1121-1189
+1 BLOODTYPE AB
+1 HEIGHT 1.69m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Castaño
+
+0 @101@ INDI
+1 NAME Ana/Tutaca
+1 SEX f
+1 BIRT
+2 DATE 1088
+1 DEAT
+2 DATE 1151
+1 PERSONALITY Sociable
+Tranquila
+Caritativa
+1 FISICO Hermosa
+Babeante
+Cuellicorta
+1 TITLES Vizcondesa de Voimetria (1110-1151)
+Baronesa de Fincradencia (1113-1151)
+Baronesa de Ponana (1120-1151)
+v: 1088-1151
+1 BLOODTYPE A
+1 HEIGHT 1.73m
+1 WEIGHT 62.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @102@ INDI
+1 NAME Mateo/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1095
+1 DEAT
+2 DATE 1153
+1 PERSONALITY Persuasivo
+Guerrero
+Rígido
+1 FISICO Pulcro
+Entrecano
+Lampiño
+1 TITLES Virrey de Didavia (1121-1153)
+Señor de Ilislanda (1107-1153)
+v: 1095-1153
+1 BLOODTYPE 0
+1 HEIGHT 1.46m
+1 WEIGHT 89.0kg
+1 HAIRCOLOR Negro
+
+0 @103@ INDI
+1 NAME Adalberto/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1087
+1 DEAT
+2 DATE 1161
+1 PERSONALITY Ascético
+Extraño
+Insensible
+1 FISICO Entrecano
+Calvo
+Flojo
+1 TITLES Conde de Posalia (1096-1161)
+Vizconde de Gresamarca (1097-1161)
+v: 1087-1161
+1 BLOODTYPE B
+1 HEIGHT 1.75m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Castaño claro
+
+0 @104@ INDI
+1 NAME Adalberto/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1128
+1 DEAT
+2 DATE 1172
+1 PERSONALITY Tramposo
+Persuasivo
+Malhablado
+1 FISICO Musculoso
+Entrecano
+Esbelto
+1 TITLES Virrey de Didavia (1153-1172)
+Virrey de Gregisia (1169-1172)
+Virrey de Hersinia (1149-1172)
+Duque de Sivonia (1155-1172)
+v: 1128-1172
+1 BLOODTYPE 0
+1 HEIGHT 1.54m
+1 WEIGHT 78.0kg
+1 HAIRCOLOR Castaño
+
+0 @105@ INDI
+1 NAME Josefa/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1129
+1 DEAT
+2 DATE 1176
+1 PERSONALITY Malhumorada
+Rígida
+Lujuriosa
+1 FISICO Patizamba
+Pulcra
+Pálida
+1 TITLES Virreina de Isiquia (1169-1176)
+Virreina de Lulena (1149-1176)
+Duquesa de Sivonia (1172-1176)
+Autocratriz de Didadilia (1143-1176)
+v: 1129-1176
+1 BLOODTYPE 0
+1 HEIGHT 1.65m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Pardo
+
+0 @106@ INDI
+1 NAME Ataulfo Terencio/Borguto
+1 SEX m
+1 BIRT
+2 DATE 1104
+1 DEAT
+2 DATE 1162
+1 PERSONALITY Atento
+Fiel
+Antipático
+1 FISICO Pulcro
+Moreno
+Orejón
+1 TITLES Archiduque de Ismalia (1136-1162)
+Hidalgo de Reloquia (1140-1162)
+v: 1104-1162
+1 BLOODTYPE B
+1 HEIGHT 1.56m
+1 WEIGHT 60.0kg
+1 HAIRCOLOR Oscuro
+
+0 @107@ INDI
+1 NAME Marta Octavia/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1124
+1 DEAT
+2 DATE 1185
+1 PERSONALITY Inmoral
+Comprensiva
+Ambiciosa
+1 FISICO Robusta
+Bizca
+Ojerosa
+1 TITLES Archiduquesa de Ruvigria (1140-1185)
+Vizcondesa de Diralandia (1131-1185)
+Baronesa de Nodenia (1137-1185)
+v: 1124-1185
+1 BLOODTYPE B
+1 HEIGHT 1.91m
+1 WEIGHT 64.0kg
+1 HAIRCOLOR Pardo
+
+0 @108@ INDI
+1 NAME Eduarda/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1148
+1 DEAT
+2 DATE 1179
+1 PERSONALITY Malhablada
+Ambiciosa
+Graciosa
+1 FISICO Esbelta
+Robusta
+Fea
+1 TITLES Virreina de Guadimania (1176-1179)
+Virreina de Hersinia (1172-1179)
+Archiduquesa de Lidenia (1149-1179)
+Duquesa de Finlolanda (1169-1179)
+v: 1148-1179
+1 BLOODTYPE B
+1 HEIGHT 1.59m
+1 WEIGHT 68.0kg
+1 HAIRCOLOR Oscuro
+
+0 @109@ INDI
+1 NAME Severo/Narans
+1 SEX m
+1 BIRT
+2 DATE 1111
+1 DEAT
+2 DATE 1181
+1 PERSONALITY Secretivo
+Enfermizo
+Pervertido
+1 FISICO Maloliente
+Escuálido
+Pulcro
+1 TITLES Archiduque de Mongoburgo (1143-1181)
+Vizconde de Finvania (1143-1181)
+Barón de Revonia (1135-1181)
+v: 1111-1181
+1 BLOODTYPE B
+1 HEIGHT 1.62m
+1 WEIGHT 64.5kg
+1 HAIRCOLOR Oscuro
+
+0 @110@ INDI
+1 NAME ANA II/Borguto
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1154
+1 DEAT
+2 DATE 1200
+1 PERSONALITY Inculta
+Fiel
+Lujuriosa
+1 FISICO Pálida
+Pulcra
+Escuálida
+1 TITLES Monarca de Hunmania (1189-1200)
+Virreina de Gregisia (1199-1200)
+Virreina de Greglasatria (1155-1200)
+Duquesa de Finlolanda (1179-1200)
+v: 1154-1200
+1 BLOODTYPE B
+1 HEIGHT 1.57m
+1 WEIGHT 76.0kg
+1 HAIRCOLOR Castaño
+
+0 @111@ INDI
+1 NAME Adalberto/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1154
+1 DEAT
+2 DATE 1176
+1 PERSONALITY Tramposo
+Comprensivo
+Digno de confianza
+1 FISICO Entrecano
+Robusto
+Miope
+1 TITLES Virrey de Didavia (1172-1176)
+Virrey de Guadimania (1169-1176)
+Virrey de Lulena (1176-1176)
+Duque de Voinaria (1155-1176)
+v: 1154-1176
+1 BLOODTYPE 0
+1 HEIGHT 1.84m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Pardo
+
+0 @112@ INDI
+1 NAME Luisa/Borguto
+1 SEX f
+1 BIRT
+2 DATE 1155
+1 DEAT
+2 DATE 1199
+1 PERSONALITY Regia
+Atenta
+Sincera
+1 FISICO Esbelta
+Pulcra
+Miope
+1 TITLES Virreina de Belleña (1189-1199)
+Archiduquesa de Noveburgo (1186-1199)
+Duquesa de Sigoquia (1189-1199)
+Autocratriz de Didadilia (1179-1199)
+v: 1155-1199
+1 BLOODTYPE B
+1 HEIGHT 1.65m
+1 WEIGHT 77.0kg
+1 HAIRCOLOR Oscuro
+
+0 @113@ INDI
+1 NAME Aurelia/Narans
+1 SEX f
+1 BIRT
+2 DATE 1157
+1 DEAT
+2 DATE 1211
+1 PERSONALITY Rígida
+Enfermiza
+Controladora
+1 FISICO Patizamba
+Escuálida
+Robusta
+1 TITLES Virreina de Didavia (1199-1211)
+Virreina de Hersinia (1179-1211)
+Virreina de Isiquia (1176-1211)
+Virreina de Lulena (1176-1211)
+v: 1157-1211
+1 BLOODTYPE 0
+1 HEIGHT 1.59m
+1 WEIGHT 86.5kg
+1 HAIRCOLOR Castaño
+
+0 @114@ INDI
+1 NAME Mateo/Grigieci
+1 SEX m
+1 BIRT
+2 DATE 1164
+1 DEAT
+2 DATE 1199
+1 PERSONALITY Malhablado
+Inmoral
+Intimidante
+1 FISICO Musculoso
+Ojeroso
+Canijo
+1 TITLES Virrey de Didavia (1176-1199)
+Virrey de Gregisia (1172-1199)
+Virrey de Guadimania (1179-1199)
+Archiduque de Estalolandia (1169-1199)
+v: 1164-1199
+1 BLOODTYPE 0
+1 HEIGHT 1.86m
+1 WEIGHT 54.0kg
+1 HAIRCOLOR Pardo
+
+0 @115@ INDI
+1 NAME Alarico Teodorico/Barnet
+1 SEX m
+1 BIRT
+2 DATE 1124
+1 DEAT
+2 DATE 1180
+1 PERSONALITY Idealista
+Juerguista
+Afeminado
+1 FISICO Inexpresivo
+Calvo
+Cara redonda
+1 TITLES Duque de Tutigal (1158-1180)
+Gobernador de Yunaritria (1150-1180)
+Hidalgo de Isvogia (1157-1180)
+v: 1124-1180
+1 BLOODTYPE B
+1 HEIGHT 1.57m
+1 WEIGHT 53.5kg
+1 HAIRCOLOR Oscuro
+
+0 @116@ INDI
+1 NAME Octavio/Narans
+1 SEX m
+1 BIRT
+2 DATE 1145
+1 DEAT
+2 DATE 1186
+1 PERSONALITY Abstemio
+Casto
+Extraño
+1 FISICO Graso
+Esbelto
+Bizco
+1 TITLES Archiduque de Noveburgo (1166-1186)
+Vizconde de Aldiga (1167-1186)
+v: 1145-1186
+1 BLOODTYPE B
+1 HEIGHT 1.5m
+1 WEIGHT 79.5kg
+1 HAIRCOLOR Oscuro
+
+0 @117@ INDI
+1 NAME ALEJANDRA I/Barnet
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1176
+1 DEAT
+2 DATE 1236
+1 PERSONALITY Lujuriosa
+Marimacho
+Liberal
+1 FISICO Pulcra
+Inexpresiva
+redonda
+1 TITLES Monarca de Hunmania (1200-1236)
+Virreina de Guadimania (1220-1236)
+Virreina de Lulena (1211-1236)
+Archiduquesa de Estosia (1189-1236)
+v: 1176-1236
+1 BLOODTYPE B
+1 HEIGHT 1.62m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Castaño
+
+0 @118@ INDI
+1 NAME Ana/Narans
+1 SEX f
+1 BIRT
+2 DATE 1178
+1 DEAT
+2 DATE 1204
+1 PERSONALITY Atenta
+Casta
+Antipática
+1 FISICO Miope
+Grasa
+Cenicienta
+1 TITLES Archiduquesa de Ismalia (1189-1204)
+Archiduquesa de Ruvigria (1199-1204)
+Duquesa de Finlolanda (1200-1204)
+Duquesa de Sigoquia (1199-1204)
+v: 1178-1204
+1 BLOODTYPE B
+1 HEIGHT 1.51m
+1 WEIGHT 70.5kg
+1 HAIRCOLOR Pelirrojo
+
+0 @119@ INDI
+1 NAME Miguel/Narans
+1 SEX m
+1 BIRT
+2 DATE 1180
+1 DEAT
+2 DATE 1220
+1 PERSONALITY Regio
+Abstemio
+Avaricioso
+1 FISICO Miope
+Bizco
+Patizambo
+1 TITLES Virrey de Belleña (1199-1220)
+Virrey de Gregisia (1200-1220)
+Virrey de Guadimania (1199-1220)
+Virrey de Hersinia (1211-1220)
+v: 1180-1220
+1 BLOODTYPE B
+1 HEIGHT 1.61m
+1 WEIGHT 78.5kg
+1 HAIRCOLOR Oscuro
+
+0 @120@ INDI
+1 NAME Josefa/Tutaca
+1 SEX f
+1 BIRT
+2 DATE 1148
+1 DEAT
+2 DATE 1213
+1 PERSONALITY Depresiva
+Loca
+Malhablada
+1 FISICO Sucia
+Escuálida
+Tetona
+1 TITLES Fijodalga de Divequia (1164-1213)
+v: 1148-1213
+1 BLOODTYPE A
+1 HEIGHT 1.83m
+1 WEIGHT 67.0kg
+1 HAIRCOLOR Castaño
+
+0 @121@ INDI
+1 NAME BORIS I/Narans
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1182
+1 DEAT
+2 DATE 1255
+1 PERSONALITY Regio
+Extraño
+Liberal
+1 FISICO Esbelto
+Bizco
+Barbudo
+1 TITLES Monarca de Hunmania (1236-1255)
+Virrey de Belleña (1220-1255)
+Virrey de Gregisia (1226-1255)
+Virrey de Greglasatria (1200-1255)
+v: 1182-1255
+1 BLOODTYPE B
+1 HEIGHT 1.52m
+1 WEIGHT 68.5kg
+1 HAIRCOLOR Pelirrojo
+
+0 @122@ INDI
+1 NAME Conan Segismundo/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 1144
+1 DEAT
+2 DATE 1195
+1 PERSONALITY Gorrón
+Malvado
+Tranquilo
+1 FISICO Inexpresivo
+Musculoso
+Ojos saltones
+1 TITLES Señor de Hertacanlandia (1173-1195)
+v: 1144-1195
+1 BLOODTYPE AB
+1 HEIGHT 1.55m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Oscuro
+
+0 @123@ INDI
+1 NAME Mateo/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 1177
+1 DEAT
+2 DATE 1248
+1 PERSONALITY Liberal
+Cobarde
+Taciturno
+1 FISICO Esbelto
+Entrecano
+Maloliente
+1 TITLES Marqués de Silisia (1193-1248)
+v: 1177-1248
+1 BLOODTYPE 0
+1 HEIGHT 1.7m
+1 WEIGHT 73.5kg
+1 HAIRCOLOR Pardo
+
+0 @124@ INDI
+1 NAME Auria/Grigieci
+1 SEX f
+1 BIRT
+2 DATE 1164
+1 DEAT
+2 DATE 1235
+1 PERSONALITY Hogareña
+Libertina
+Envidiosa
+1 FISICO Elegante
+Atlética
+Babeante
+1 TITLES Marquesa de Pacraburgo (1196-1235)
+Baronesa de Siletamarca (1196-1235)
+v: 1164-1235
+1 BLOODTYPE A
+1 HEIGHT 1.37m
+1 WEIGHT 60.5kg
+1 HAIRCOLOR Castaño
+
+0 @125@ INDI
+1 NAME Alejo/Tutaca
+1 SEX m
+1 BIRT
+2 DATE 1201
+1 DEAT
+2 DATE 1258
+1 PERSONALITY Enfermizo
+Taciturno
+Nervioso
+1 FISICO Patizambo
+Entrecano
+Miope
+1 TITLES Virrey de Belleña (1255-1258)
+Virrey de Didavia (1211-1258)
+Virrey de Hersinia (1220-1258)
+Virrey de Isiquia (1255-1258)
+v: 1201-1258
+1 BLOODTYPE 0
+1 HEIGHT 1.66m
+1 WEIGHT 77.5kg
+1 HAIRCOLOR Castaño
+
+0 @126@ INDI
+1 NAME Claudio/Bograte
+1 SEX m
+1 BIRT
+2 DATE 1170
+1 DEAT
+2 DATE 1235
+1 PERSONALITY Risueño
+Honesto
+Gorrón
+1 FISICO Pulcro
+Bilioso
+Hermoso
+1 TITLES Duque de Yulania (1200-1235)
+Gobernador de Zegalandia (1182-1235)
+Hidalgo de Ollunia (1184-1235)
+v: 1170-1235
+1 BLOODTYPE B
+1 HEIGHT 1.78m
+1 WEIGHT 86.0kg
+1 HAIRCOLOR Negro
+
+0 @127@ INDI
+1 NAME Guillermina/Narans
+1 SEX f
+1 BIRT
+2 DATE 1209
+1 DEAT
+2 DATE 1226
+1 PERSONALITY Liberal
+Libertina
+Distante
+1 FISICO Esbelta
+Elegante
+Delgada
+1 TITLES Virreina de Gregisia (1220-1226)
+Archiduquesa de Ismalia (1220-1226)
+Archiduquesa de Mongoburgo (1211-1226)
+Duquesa de Sivonia (1211-1226)
+v: 1209-1226
+1 BLOODTYPE AB
+1 HEIGHT 1.6m
+1 WEIGHT 74.0kg
+1 HAIRCOLOR Castaño claro
+
+0 @128@ INDI
+1 NAME JOSEFINA II/Narans
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX f
+1 BIRT
+2 DATE 1225
+1 DEAT
+2 DATE 1286
+1 PERSONALITY Liberal
+Envidiosa
+Sincera
+1 FISICO Esbelta
+Elegante
+Cetrina
+1 TITLES Monarca de Hunmania (1255-1286)
+Virreina de Didavia (1258-1286)
+Virreina de Greglasatria (1255-1286)
+Virreina de Guadimania (1236-1286)
+v: 1225-1286
+1 BLOODTYPE B
+1 HEIGHT 1.44m
+1 WEIGHT 69.0kg
+1 HAIRCOLOR Pardo
+
+0 @129@ INDI
+1 NAME Sebastiana/Trasdergos
+1 SEX f
+1 BIRT
+2 DATE 1205
+1 DEAT
+2 DATE 1245
+1 PERSONALITY Simpática
+Hogareña
+Honesta
+1 FISICO Hermosa
+Sensual
+Zurda
+1 TITLES Archiduquesa de Olracia (1234-1245)
+Vizcondesa de Eslisca (1234-1245)
+v: 1205-1245
+1 BLOODTYPE A
+1 HEIGHT 1.61m
+1 WEIGHT 72.5kg
+1 HAIRCOLOR Castaño
+
+0 @130@ INDI
+1 NAME ADALBERTO V/Tutaca
+1 DISPLAY
+2 COLORS
+3 GENDER
+4 SYMBOL #FF0000
+4 FILL #FF6400
+1 SEX m
+1 BIRT
+2 DATE 1239
+1 DEAT
+2 DATE 1299
+1 PERSONALITY Nervioso
+Hogareño
+Caótico
+1 FISICO Patizambo
+Hermoso
+Rollizo
+1 TITLES Monarca de Hunmania (1286-1299)
+Virrey de Belleña (1258-1299)
+Virrey de Didavia (1286-1299)
+Virrey de Gregisia (1255-1299)
+v: 1239-1299
+1 BLOODTYPE A
+1 HEIGHT 1.61m
+1 WEIGHT 74.5kg
+1 HAIRCOLOR Negro
+
+0 @131@ INDI
+1 NAME Blanca/Tutaca
+1 SEX f
+1 BIRT
+2 DATE 1216
+1 DEAT
+2 DATE 1275
+1 PERSONALITY Extraña
+Terca
+Prudente
+1 FISICO Hermosa
+Esbelta
+Calva
+1 TITLES Archiduquesa de Suereburgo (1243-1275)
+Fijodalga de Ollisna (1249-1275)
+v: 1216-1275
+1 BLOODTYPE B
+1 HEIGHT 1.87m
+1 WEIGHT 70.0kg
+1 HAIRCOLOR Pardo
+
+0 @132@ INDI
+1 NAME Adalberto/Esvingesa
+1 SEX m
+1 BIRT
+2 DATE 1218
+1 DEAT
+2 DATE 1296
+1 PERSONALITY Influenciable
+Envidioso
+Malhablado
+1 FISICO Feo
+Dientes deformes
+Narigón
+1 TITLES Autócrator de Irpanatria (1257-1296)
+Señor de Irmamatria (1233-1296)
+v: 1218-1296
+1 BLOODTYPE AB
+1 HEIGHT 1.64m
+1 WEIGHT 73.0kg
+1 HAIRCOLOR Pardo
+
+0 @133@ FAM
+1 RELATION Marriage
+1 HUSB @1@
+1 WIFE @2@
+1 DISPLAYTEXT 0929-0945
+1 CHIL @3@
+1 CHIL @4@
+1 CHIL @5@
+1 CHIL @6@
+1 CHIL @7@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @133@
+1 INDIVIDUAL @1@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @133@
+1 INDIVIDUAL @2@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @133@
+1 INDIVIDUAL @3@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @133@
+1 INDIVIDUAL @4@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @133@
+1 INDIVIDUAL @5@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @133@
+1 INDIVIDUAL @6@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @133@
+1 INDIVIDUAL @7@
+0 PEDIGREELINK
+0 @134@ FAM
+1 RELATION Marriage
+1 HUSB @8@
+1 WIFE @4@
+1 DISPLAYTEXT 0953-0983
+1 CHIL @10@
+1 CHIL @16@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @134@
+1 INDIVIDUAL @8@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @134@
+1 INDIVIDUAL @4@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @134@
+1 INDIVIDUAL @10@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @134@
+1 INDIVIDUAL @16@
+0 PEDIGREELINK
+0 @135@ FAM
+1 RELATION Marriage
+1 HUSB @1@
+1 WIFE @9@
+1 DISPLAYTEXT 0955-0974
+1 CHIL @11@
+1 CHIL @19@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @135@
+1 INDIVIDUAL @1@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @135@
+1 INDIVIDUAL @9@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @135@
+1 INDIVIDUAL @11@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @135@
+1 INDIVIDUAL @19@
+0 PEDIGREELINK
+0 @136@ FAM
+1 RELATION Marriage
+1 HUSB @12@
+1 WIFE @5@
+1 DISPLAYTEXT 0961-1002
+1 CHIL @15@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @136@
+1 INDIVIDUAL @12@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @136@
+1 INDIVIDUAL @5@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @136@
+1 INDIVIDUAL @15@
+0 PEDIGREELINK
+0 @137@ FAM
+1 RELATION Marriage
+1 HUSB @13@
+1 WIFE @6@
+1 DISPLAYTEXT 0961-0972
+1 CHIL @17@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @137@
+1 INDIVIDUAL @13@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @137@
+1 INDIVIDUAL @6@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @137@
+1 INDIVIDUAL @17@
+0 PEDIGREELINK
+0 @138@ FAM
+1 RELATION Marriage
+1 HUSB @14@
+1 WIFE @7@
+1 DISPLAYTEXT 0961-0977
+1 CHIL @18@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @138@
+1 INDIVIDUAL @14@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @138@
+1 INDIVIDUAL @7@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @138@
+1 INDIVIDUAL @18@
+0 PEDIGREELINK
+0 @139@ FAM
+1 RELATION Marriage
+1 HUSB @22@
+1 WIFE @6@
+1 DISPLAYTEXT 0975-0988
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @139@
+1 INDIVIDUAL @22@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @139@
+1 INDIVIDUAL @6@
+0 PEDIGREELINK
+0 @140@ FAM
+1 RELATION Marriage
+1 HUSB @23@
+1 WIFE @11@
+1 DISPLAYTEXT 0979-1006
+1 CHIL @27@
+1 CHIL @29@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @140@
+1 INDIVIDUAL @23@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @140@
+1 INDIVIDUAL @11@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @140@
+1 INDIVIDUAL @27@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @140@
+1 INDIVIDUAL @29@
+0 PEDIGREELINK
+0 @141@ FAM
+1 RELATION Marriage
+1 HUSB @24@
+1 WIFE @10@
+1 DISPLAYTEXT 0986-0996
+1 CHIL @31@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @141@
+1 INDIVIDUAL @24@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @141@
+1 INDIVIDUAL @10@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @141@
+1 INDIVIDUAL @31@
+0 PEDIGREELINK
+0 @142@ FAM
+1 RELATION Marriage
+1 HUSB @28@
+1 WIFE @18@
+1 DISPLAYTEXT 0992-1035
+1 CHIL @41@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @142@
+1 INDIVIDUAL @28@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @142@
+1 INDIVIDUAL @18@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @142@
+1 INDIVIDUAL @41@
+0 PEDIGREELINK
+0 @143@ FAM
+1 RELATION Marriage
+1 HUSB @15@
+1 WIFE @30@
+1 DISPLAYTEXT 0995-1023
+1 CHIL @33@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @143@
+1 INDIVIDUAL @15@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @143@
+1 INDIVIDUAL @30@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @143@
+1 INDIVIDUAL @33@
+0 PEDIGREELINK
+0 @144@ FAM
+1 RELATION Marriage
+1 HUSB @21@
+1 WIFE @32@
+1 DISPLAYTEXT 0997-1020
+1 CHIL @39@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @144@
+1 INDIVIDUAL @21@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @144@
+1 INDIVIDUAL @32@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @144@
+1 INDIVIDUAL @39@
+0 PEDIGREELINK
+0 @145@ FAM
+1 RELATION Marriage
+1 HUSB @34@
+1 WIFE @17@
+1 DISPLAYTEXT 0999-1009
+1 CHIL @40@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @145@
+1 INDIVIDUAL @34@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @145@
+1 INDIVIDUAL @17@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @145@
+1 INDIVIDUAL @40@
+0 PEDIGREELINK
+0 @146@ FAM
+1 RELATION Marriage
+1 HUSB @19@
+1 WIFE @37@
+1 DISPLAYTEXT 1003-1029
+1 CHIL @38@
+1 CHIL @42@
+1 CHIL @43@
+1 CHIL @45@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @146@
+1 INDIVIDUAL @19@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @146@
+1 INDIVIDUAL @37@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @146@
+1 INDIVIDUAL @38@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @146@
+1 INDIVIDUAL @42@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @146@
+1 INDIVIDUAL @43@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @146@
+1 INDIVIDUAL @45@
+0 PEDIGREELINK
+0 @147@ FAM
+1 RELATION Marriage
+1 HUSB @44@
+1 WIFE @31@
+1 DISPLAYTEXT 1015-1038
+1 CHIL @46@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @147@
+1 INDIVIDUAL @44@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @147@
+1 INDIVIDUAL @31@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @147@
+1 INDIVIDUAL @46@
+0 PEDIGREELINK
+0 @148@ FAM
+1 RELATION Marriage
+1 HUSB @47@
+1 WIFE @40@
+1 DISPLAYTEXT 1026-1046
+1 CHIL @53@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @148@
+1 INDIVIDUAL @47@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @148@
+1 INDIVIDUAL @40@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @148@
+1 INDIVIDUAL @53@
+0 PEDIGREELINK
+0 @149@ FAM
+1 RELATION Marriage
+1 HUSB @41@
+1 WIFE @48@
+1 DISPLAYTEXT 1027-1059
+1 CHIL @50@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @149@
+1 INDIVIDUAL @41@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @149@
+1 INDIVIDUAL @48@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @149@
+1 INDIVIDUAL @50@
+0 PEDIGREELINK
+0 @150@ FAM
+1 RELATION Marriage
+1 HUSB @49@
+1 WIFE @38@
+1 DISPLAYTEXT 1028-1070
+1 CHIL @55@
+1 CHIL @56@
+1 CHIL @59@
+1 CHIL @60@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @150@
+1 INDIVIDUAL @49@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @150@
+1 INDIVIDUAL @38@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @150@
+1 INDIVIDUAL @55@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @150@
+1 INDIVIDUAL @56@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @150@
+1 INDIVIDUAL @59@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @150@
+1 INDIVIDUAL @60@
+0 PEDIGREELINK
+0 @151@ FAM
+1 RELATION Marriage
+1 HUSB @27@
+1 WIFE @51@
+1 DISPLAYTEXT 1032-1046
+1 CHIL @54@
+1 CHIL @58@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @151@
+1 INDIVIDUAL @27@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @151@
+1 INDIVIDUAL @51@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @151@
+1 INDIVIDUAL @54@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @151@
+1 INDIVIDUAL @58@
+0 PEDIGREELINK
+0 @152@ FAM
+1 RELATION Marriage
+1 HUSB @33@
+1 WIFE @52@
+1 DISPLAYTEXT 1032-1062
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @152@
+1 INDIVIDUAL @33@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @152@
+1 INDIVIDUAL @52@
+0 PEDIGREELINK
+0 @153@ FAM
+1 RELATION Marriage
+1 HUSB @42@
+1 WIFE @57@
+1 DISPLAYTEXT 1037-1065
+1 CHIL @61@
+1 CHIL @62@
+1 CHIL @64@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @153@
+1 INDIVIDUAL @42@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @153@
+1 INDIVIDUAL @57@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @153@
+1 INDIVIDUAL @61@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @153@
+1 INDIVIDUAL @62@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @153@
+1 INDIVIDUAL @64@
+0 PEDIGREELINK
+0 @154@ FAM
+1 RELATION Marriage
+1 HUSB @45@
+1 WIFE @63@
+1 DISPLAYTEXT 1049-1085
+1 CHIL @71@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @154@
+1 INDIVIDUAL @45@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @154@
+1 INDIVIDUAL @63@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @154@
+1 INDIVIDUAL @71@
+0 PEDIGREELINK
+0 @155@ FAM
+1 RELATION Marriage
+1 HUSB @46@
+1 WIFE @65@
+1 DISPLAYTEXT 1053-1076
+1 CHIL @68@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @155@
+1 INDIVIDUAL @46@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @155@
+1 INDIVIDUAL @65@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @155@
+1 INDIVIDUAL @68@
+0 PEDIGREELINK
+0 @156@ FAM
+1 RELATION Marriage
+1 HUSB @53@
+1 WIFE @69@
+1 DISPLAYTEXT 1058-1082
+1 CHIL @75@
+1 CHIL @81@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @156@
+1 INDIVIDUAL @53@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @156@
+1 INDIVIDUAL @69@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @156@
+1 INDIVIDUAL @75@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @156@
+1 INDIVIDUAL @81@
+0 PEDIGREELINK
+0 @157@ FAM
+1 RELATION Marriage
+1 HUSB @70@
+1 WIFE @55@
+1 DISPLAYTEXT 1058-1068
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @157@
+1 INDIVIDUAL @70@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @157@
+1 INDIVIDUAL @55@
+0 PEDIGREELINK
+0 @158@ FAM
+1 RELATION Marriage
+1 HUSB @72@
+1 WIFE @60@
+1 DISPLAYTEXT 1060-1062
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @158@
+1 INDIVIDUAL @72@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @158@
+1 INDIVIDUAL @60@
+0 PEDIGREELINK
+0 @159@ FAM
+1 RELATION Marriage
+1 HUSB @73@
+1 WIFE @59@
+1 DISPLAYTEXT 1061-1091
+1 CHIL @78@
+1 CHIL @85@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @159@
+1 INDIVIDUAL @73@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @159@
+1 INDIVIDUAL @59@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @159@
+1 INDIVIDUAL @78@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @159@
+1 INDIVIDUAL @85@
+0 PEDIGREELINK
+0 @160@ FAM
+1 RELATION Marriage
+1 HUSB @61@
+1 WIFE @74@
+1 DISPLAYTEXT 1064-1072
+1 CHIL @82@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @160@
+1 INDIVIDUAL @61@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @160@
+1 INDIVIDUAL @74@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @160@
+1 INDIVIDUAL @82@
+0 PEDIGREELINK
+0 @161@ FAM
+1 RELATION Marriage
+1 HUSB @79@
+1 WIFE @54@
+1 DISPLAYTEXT 1067-1082
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @161@
+1 INDIVIDUAL @79@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @161@
+1 INDIVIDUAL @54@
+0 PEDIGREELINK
+0 @162@ FAM
+1 RELATION Marriage
+1 HUSB @80@
+1 WIFE @60@
+1 DISPLAYTEXT 1068-1095
+1 CHIL @83@
+1 CHIL @86@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @162@
+1 INDIVIDUAL @80@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @162@
+1 INDIVIDUAL @60@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @162@
+1 INDIVIDUAL @83@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @162@
+1 INDIVIDUAL @86@
+0 PEDIGREELINK
+0 @163@ FAM
+1 RELATION Marriage
+1 HUSB @62@
+1 WIFE @84@
+1 DISPLAYTEXT 1075-1106
+1 CHIL @87@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @163@
+1 INDIVIDUAL @62@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @163@
+1 INDIVIDUAL @84@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @163@
+1 INDIVIDUAL @87@
+0 PEDIGREELINK
+0 @164@ FAM
+1 RELATION Marriage
+1 HUSB @88@
+1 WIFE @71@
+1 DISPLAYTEXT 1088-1095
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @164@
+1 INDIVIDUAL @88@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @164@
+1 INDIVIDUAL @71@
+0 PEDIGREELINK
+0 @165@ FAM
+1 RELATION Marriage
+1 HUSB @61@
+1 WIFE @89@
+1 DISPLAYTEXT 1089-1113
+1 CHIL @90@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @165@
+1 INDIVIDUAL @61@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @165@
+1 INDIVIDUAL @89@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @165@
+1 INDIVIDUAL @90@
+0 PEDIGREELINK
+0 @166@ FAM
+1 RELATION Marriage
+1 HUSB @83@
+1 WIFE @91@
+1 DISPLAYTEXT 1096-1122
+1 CHIL @93@
+1 CHIL @94@
+1 CHIL @96@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @166@
+1 INDIVIDUAL @83@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @166@
+1 INDIVIDUAL @91@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @166@
+1 INDIVIDUAL @93@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @166@
+1 INDIVIDUAL @94@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @166@
+1 INDIVIDUAL @96@
+0 PEDIGREELINK
+0 @167@ FAM
+1 RELATION Marriage
+1 HUSB @92@
+1 WIFE @75@
+1 DISPLAYTEXT 1097-1102
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @167@
+1 INDIVIDUAL @92@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @167@
+1 INDIVIDUAL @75@
+0 PEDIGREELINK
+0 @168@ FAM
+1 RELATION Marriage
+1 HUSB @86@
+1 WIFE @95@
+1 DISPLAYTEXT 1103-1133
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @168@
+1 INDIVIDUAL @86@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @168@
+1 INDIVIDUAL @95@
+0 PEDIGREELINK
+0 @169@ FAM
+1 RELATION Marriage
+1 HUSB @97@
+1 WIFE @85@
+1 DISPLAYTEXT 1115-1123
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @169@
+1 INDIVIDUAL @97@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @169@
+1 INDIVIDUAL @85@
+0 PEDIGREELINK
+0 @170@ FAM
+1 RELATION Marriage
+1 HUSB @87@
+1 WIFE @98@
+1 DISPLAYTEXT 1115-1130
+1 CHIL @100@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @170@
+1 INDIVIDUAL @87@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @170@
+1 INDIVIDUAL @98@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @170@
+1 INDIVIDUAL @100@
+0 PEDIGREELINK
+0 @171@ FAM
+1 RELATION Marriage
+1 HUSB @99@
+1 WIFE @90@
+1 DISPLAYTEXT 1116-1140
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @171@
+1 INDIVIDUAL @99@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @171@
+1 INDIVIDUAL @90@
+0 PEDIGREELINK
+0 @172@ FAM
+1 RELATION Marriage
+1 HUSB @93@
+1 WIFE @101@
+1 DISPLAYTEXT 1122-1151
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @172@
+1 INDIVIDUAL @93@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @172@
+1 INDIVIDUAL @101@
+0 PEDIGREELINK
+0 @173@ FAM
+1 RELATION Marriage
+1 HUSB @102@
+1 WIFE @96@
+1 DISPLAYTEXT 1124-1138
+1 CHIL @104@
+1 CHIL @105@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @173@
+1 INDIVIDUAL @102@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @173@
+1 INDIVIDUAL @96@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @173@
+1 INDIVIDUAL @104@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @173@
+1 INDIVIDUAL @105@
+0 PEDIGREELINK
+0 @174@ FAM
+1 RELATION Marriage
+1 HUSB @103@
+1 WIFE @94@
+1 DISPLAYTEXT 1125-1135
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @174@
+1 INDIVIDUAL @103@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @174@
+1 INDIVIDUAL @94@
+0 PEDIGREELINK
+0 @175@ FAM
+1 RELATION Marriage
+1 HUSB @106@
+1 WIFE @100@
+1 DISPLAYTEXT 1142-1162
+1 CHIL @110@
+1 CHIL @112@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @175@
+1 INDIVIDUAL @106@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @175@
+1 INDIVIDUAL @100@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @175@
+1 INDIVIDUAL @110@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @175@
+1 INDIVIDUAL @112@
+0 PEDIGREELINK
+0 @176@ FAM
+1 RELATION Marriage
+1 HUSB @104@
+1 WIFE @107@
+1 DISPLAYTEXT 1146-1172
+1 CHIL @108@
+1 CHIL @111@
+1 CHIL @114@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @176@
+1 INDIVIDUAL @104@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @176@
+1 INDIVIDUAL @107@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @176@
+1 INDIVIDUAL @108@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @176@
+1 INDIVIDUAL @111@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @176@
+1 INDIVIDUAL @114@
+0 PEDIGREELINK
+0 @177@ FAM
+1 RELATION Marriage
+1 HUSB @109@
+1 WIFE @105@
+1 DISPLAYTEXT 1150-1176
+1 CHIL @113@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @177@
+1 INDIVIDUAL @109@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @177@
+1 INDIVIDUAL @105@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @177@
+1 INDIVIDUAL @113@
+0 PEDIGREELINK
+0 @178@ FAM
+1 RELATION Marriage
+1 HUSB @115@
+1 WIFE @110@
+1 DISPLAYTEXT 1170-1180
+1 CHIL @117@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @178@
+1 INDIVIDUAL @115@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @178@
+1 INDIVIDUAL @110@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @178@
+1 INDIVIDUAL @117@
+0 PEDIGREELINK
+0 @179@ FAM
+1 RELATION Marriage
+1 HUSB @116@
+1 WIFE @112@
+1 DISPLAYTEXT 1175-1186
+1 CHIL @118@
+1 CHIL @119@
+1 CHIL @121@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @179@
+1 INDIVIDUAL @116@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @179@
+1 INDIVIDUAL @112@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @179@
+1 INDIVIDUAL @118@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @179@
+1 INDIVIDUAL @119@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @179@
+1 INDIVIDUAL @121@
+0 PEDIGREELINK
+0 @180@ FAM
+1 RELATION Marriage
+1 HUSB @114@
+1 WIFE @120@
+1 DISPLAYTEXT 1180-1199
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @180@
+1 INDIVIDUAL @114@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @180@
+1 INDIVIDUAL @120@
+0 PEDIGREELINK
+0 @181@ FAM
+1 RELATION Marriage
+1 HUSB @122@
+1 WIFE @113@
+1 DISPLAYTEXT 1190-1195
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @181@
+1 INDIVIDUAL @122@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @181@
+1 INDIVIDUAL @113@
+0 PEDIGREELINK
+0 @182@ FAM
+1 RELATION Marriage
+1 HUSB @123@
+1 WIFE @113@
+1 DISPLAYTEXT 1197-1211
+1 CHIL @125@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @182@
+1 INDIVIDUAL @123@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @182@
+1 INDIVIDUAL @113@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @182@
+1 INDIVIDUAL @125@
+0 PEDIGREELINK
+0 @183@ FAM
+1 RELATION Marriage
+1 HUSB @121@
+1 WIFE @124@
+1 DISPLAYTEXT 1198-1235
+1 CHIL @127@
+1 CHIL @128@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @183@
+1 INDIVIDUAL @121@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @183@
+1 INDIVIDUAL @124@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @183@
+1 INDIVIDUAL @127@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @183@
+1 INDIVIDUAL @128@
+0 PEDIGREELINK
+0 @184@ FAM
+1 RELATION Marriage
+1 HUSB @126@
+1 WIFE @117@
+1 DISPLAYTEXT 1202-1235
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @184@
+1 INDIVIDUAL @126@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @184@
+1 INDIVIDUAL @117@
+0 PEDIGREELINK
+0 @185@ FAM
+1 RELATION Marriage
+1 HUSB @125@
+1 WIFE @129@
+1 DISPLAYTEXT 1237-1245
+1 CHIL @130@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @185@
+1 INDIVIDUAL @125@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @185@
+1 INDIVIDUAL @129@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Biological
+1 FAMILY @185@
+1 INDIVIDUAL @130@
+0 PEDIGREELINK
+0 @186@ FAM
+1 RELATION Marriage
+1 HUSB @125@
+1 WIFE @131@
+1 DISPLAYTEXT 1251-1258
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @186@
+1 INDIVIDUAL @125@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @186@
+1 INDIVIDUAL @131@
+0 PEDIGREELINK
+0 @187@ FAM
+1 RELATION Marriage
+1 HUSB @132@
+1 WIFE @128@
+1 DISPLAYTEXT 1259-1286
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @187@
+1 INDIVIDUAL @132@
+0 PEDIGREELINK
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @187@
+1 INDIVIDUAL @128@
+0 PEDIGREELINK
+0 @188@ FAM
+1 RELATION LoveAffair
+1 HUSB @20@
+1 WIFE @5@
+1 DISPLAYTEXT 0973
+1 CHIL @21@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @188@
+1 INDIVIDUAL @20@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @188@
+1 INDIVIDUAL @5@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @188@
+1 INDIVIDUAL @21@
+0 @189@ FAM
+1 RELATION LoveAffair
+1 HUSB @25@
+1 WIFE @17@
+1 DISPLAYTEXT 0991
+1 CHIL @26@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @189@
+1 INDIVIDUAL @25@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @189@
+1 INDIVIDUAL @17@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @189@
+1 INDIVIDUAL @26@
+0 @190@ FAM
+1 RELATION LoveAffair
+1 HUSB @19@
+1 WIFE @35@
+1 DISPLAYTEXT 1001
+1 CHIL @36@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @190@
+1 INDIVIDUAL @19@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @190@
+1 INDIVIDUAL @35@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @190@
+1 INDIVIDUAL @36@
+0 @191@ FAM
+1 RELATION LoveAffair
+1 HUSB @42@
+1 WIFE @66@
+1 DISPLAYTEXT 1054
+1 CHIL @67@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @191@
+1 INDIVIDUAL @42@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @191@
+1 INDIVIDUAL @66@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @191@
+1 INDIVIDUAL @67@
+0 @192@ FAM
+1 RELATION LoveAffair
+1 HUSB @76@
+1 WIFE @56@
+1 DISPLAYTEXT 1066
+1 CHIL @77@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @192@
+1 INDIVIDUAL @76@
+0 PEDIGREELINK
+1 PEDIGREELINK Parent
+1 FAMILY @192@
+1 INDIVIDUAL @56@
+0 PEDIGREELINK
+1 PEDIGREELINK Foster
+1 FAMILY @192@
+1 INDIVIDUAL @77@
+0 TLRL
+0 LABEL 
+1 POSITION -100,0 
+2 WIDTH 250 
+2 HEIGHT 200 
+1 TEXT Adalberto I Borguto (927-974)
+Chindasvinto I Borguto (974-985)
+Adalberto II Borguto (985-1029)
+Adalberto III Borguto (1029-1068)
+Chindasvinto II Borguto (1068-1122)
+Josefina I Borguto (1122-1143)
+Adalberto IV Borguto (1143-1149)
+Ana I Borguto (1149-1189)
+Ana II Borguto (1189-1200)
+Alejandra I Barnet (1200-1236)
+Boris I Narans (1236-1255)
+Josefina II Narans (1255-1286)
+Adalberto V Tutaca (1286-1299)
+
+
+Last year = 1300
+ 
+2 PADDING 10 
+1 DISPLAY 
+2 COLOR 
+3 TEXT #000000
+3 FILL #C8C8FF
+3 BORDER #000080

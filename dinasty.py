@@ -1,7 +1,7 @@
-
 __author__ = 'Alejandro'
 
 import random
+from datetime import datetime
 
 from auxiliar import *
 from persona import *
@@ -364,6 +364,9 @@ while (len(database) < 25):
 #                       #
 #########################
 
+filename = datetime.today().strftime('%Y%m%d_%H%M%S') + '_'
+filename += database[firstid].name + '_' + database[firstid].sur + '_' + database[firstid].ide
+
 maxyear = year
 
 for persona in database:
@@ -384,7 +387,7 @@ for persona in database:
                 royalids.append(persona)
 royals.sort()
 royalnames = []
-rf = open('dinasty.txt','w')
+rf = open(filename + '.txt','w')
 r = ''
 for rey in royals:
     name = database[rey[1]].name
@@ -404,7 +407,7 @@ rf.write(r)
 rf.close()
 
 r += '\n\nLast year = ' + str(maxyear) + '\n'
-g = open('test.ged','w')
+g = open(filename + '.ged','w')
 ged = db2gedcom(database,marriages,adulterios,royalids)
 ged += '0 LABEL \n1 POSITION -100,0 \n2 WIDTH 250 \n2 HEIGHT 200 \n'
 ged += '1 TEXT ' + r + ' \n2 PADDING 10 \n'
@@ -413,7 +416,7 @@ ged += '3 BORDER #000080\n'
 g.write(ged)
 g.close()
 
-db2html(database)
+db2html(database, filename)
 
 print(len(database))
 print(len(bastardos))
